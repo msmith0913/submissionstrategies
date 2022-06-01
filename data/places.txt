@@ -1,0 +1,67 @@
+PersonID	PersonText	LocationText	Geolocation	Coordinates	LocationRelation	Precision	Certainty
+	William de Angel						
+	Baldwin Bereford		"Chailesmore, Coventry, England"	"52.394108639873494, -1.5074072768538256"	Ownership	Manor	Very certain
+	William Bernard	Guernsey	Castle Cornet	"49.45331609939186, -2.526401592247284"	Residence	Island	Very certain
+	David Berteville						
+	John Bracebridge		Kingsbury Hall	"52.56440782939598, -1.6855107351464125"	Residence	Manor	Moderately certain
+	Theobald FitzWalter Burke		Castle Connell	"52.71213203579604, -8.503683679502876"	Residence	Castle	
+	David Gall Burke		Gaulstown	"52.30933453171065, -7.113833917056847"	Residence	Castle	
+	William de Burgo						
+	Thomas de Burgo						
+	James Butler		Kilkenny Castle	"52.65042963544829, -7.249515224539098"	Residence	Castle	Very certain
+	William Clinton		Maxstoke Castle	"52.499434452258235, -1.6717643002108515"	Ownership	Castle	Moderately certain
+	Thomas Clinton		"Amington, Warwickshire"	"52.64613756609573, -1.6602881697634575"	Residence	Manor	Very certain
+	John Faltagh						
+	William Faryndon						
+	John Fitzgerald						
+	Thomas MacShane FitzMaurice		Glin Castle	"52.57014569642131, -9.294740763174241"	Residence	Castle	
+	Maurice FitzMaurice		Lixnaw Castle	"52.402309862021305, -9.628663487621754"	Residence	Castle	
+	John Galwey	Waterford	"Reginald's Tower, Waterford"	"52.26060981564144, -7.105420502725048"	Residence	Town	Very certain
+	Stephen Garnon	Ardee	Ardee	"53.85559383682583, -6.538777287683988"	Residence	Town	Very certain
+	John Golafre		Sarsden House	"51.904770291595355, -1.5807271785418906"	Residence	Manor	Very certain
+	[] Greyly						
+	John Holland		Berkahmsted Castle	"51.76391915878651, -0.5598456374405312"	Residence	Castle	Very certain
+	Thomas Ilketsale		"Ilketshall, Suffolk"	"52.43010934544872, 1.4954321165131703"	Residence	Town	Moderately certain
+	Thomas Kildare	Limerick	King John's Castle	"52.669900149141625, -8.625543760062053"	Seat of authority	Castle	Very certain
+	Nicholas Langford		Longford Hall	"52.94211635775369, -1.68151073111044"	Residence	Manor	Moderately certain
+	Guy Lenfaunt						
+	Robert Ley		Adlington Hall	"53.462108966185845, -1.8347426301840812"	Residence	Manor	Moderately cetain
+	Hugh Luttrell		Leeds Castle	"51.24904081361839, 0.6298944235039807"	Seat of authority	Castle	Very certain
+	Thomas MacCabe						
+	Donal MacCarthy Reagh		Kilbrittain	"51.67552178247685, -8.679032758580476"	Residence	Castle	Moderately certain
+	Cormac mac Donal MacCarthy Reagh		Kilbrittain	"51.67552178247685, -8.679032758580476"	Residence	Castle	Moderately certain
+	Cormac mac Dermot MacCarthy of Muskerry		Macroom Castle	"51.90520051539335, -8.96220776599217"	Residence	Castle	Moderately certain
+	Maelruanaidh MacDermot		Rock of Lough Key	"53.98956185474765, -8.232547955745472"	Residence	Castle	Very certain
+	[] MacDonagh		Ballymote Castle		Residence	Castle	Very certain
+	Finghin MacGillapatrick		Aghaboe	"52.92378377374355, -7.513021134328597"	Residence	Castle	Very certain
+	Adam MacGilmore						
+	Thomas MacHegh						
+	[] MacKeogh		Ferns Castle	"52.590900115704486, -6.500068251353481"	Overlord	Castle	Moderately certain
+	E. MacGerailt						
+	Philip MacMahon		Rath Tulach	"54.2403074168005, -6.975918985620835"		Townland	Moderately certain
+	Odo MacMahon		Rath Tulach	"54.2403074168005, -6.975918985620835"		Townland	Moderately certain
+	Shane MacMahon		Rath Tulach	"54.2403074168005, -6.975918985620835"		Townland	Moderately certain
+	[] MacMahon		Clonderalaw Castle	"52.64641698823626, -9.271418338721034"	Residence	Castle	Moderately uncertain
+	David Mor MacManus						
+	Art Og MacMurrough		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	Thomas Carragh Kavanagh MacMurrough		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	William Beg		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	John Nicholson		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	Maurice Adalagh		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	Malachy Cam		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	John Glasmorgh		Ferns Castle	"52.590900115704486, -6.500068251353481"	Residence	Castle	Moderately certain
+	[] McNamara		Bunratty Castle	"52.696672602478685, -8.812124229456206"	Residence	Castle	Very certain
+	[] Magawley		Mount Temple	"53.42937897421557, -7.775565548067066"	Residence	Castle	Moderately certain
+	Maurice Magennis		Dundrum Castle	"54.26405024505779, -5.844814792025816"	Residence	Castle	Moderately certain
+	Muirchertach Mageoghegan		Castlegown Geoghegan	"53.443415225674656, -7.489401350912528"	Residence	Castle	Moderately certain
+	[] Malachy						
+	Thomas Mareward		Dublin Castle	"53.343059024832215, -6.267460588689023"	Seat of authority	Castle	Very certain
+	Richard Medford		Chichester Cathedral	"50.836444616933846, -0.7806593023080537"	Seat of authority	Cathedral	Very certain
+	John Melton		Lincoln Cathedral	"53.23445090005561, -0.5359512293532843"	Residence	Diocese	Very certain
+	Thomas Merke		Westminster Abbey	"51.49942213076493, -0.12731618229189637"	Residence	Abbey	Very certain
+	Roger Mortimer		Trim Castle	"53.55433368968523, -6.789908525336877"	Residence	Castle	Very certain
+	Thomas Mowbray		Epworth Castle	"53.52635679996112, -0.8166546393819635"	Residence	Castle	Very certain
+	Richard Nelgan						
+	Richard Northalis		St. Canice's Cathedral	"52.65676829073725, -7.257265996886012"	Seat of authority	Cathedral	Very certain
+	[] O'Beirne						
+	Geoffrey O'Brenan		Castlecomer	"52.80625387806498, -7.202831361169027"	Locus of authority	Castle	Very uncertain
