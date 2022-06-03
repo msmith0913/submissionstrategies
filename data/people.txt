@@ -1,162 +1,162 @@
-PersonID	NameStand	Names	Roles	RoleType	LocationText	LocationInfer	Geolocation	LocationCoord	InferNotes	PersonCat		
-1	Richard II	Richard II	King of England and France; Lord of Ireland	Authority		London	Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	King	ODNB	
-2	John MacDonald	John MacDonald	Captain of his nation; Constable of the Irish of Uster	Submitter	Armagh		Dungannon (the Hill)	"54.5063072522902, -6.768650213215768"	"per Curtis, the son of the lord of the Isles, from the Hebrides, but at the moment of submission, taking refuge with O'Neill following an internecine conflict (ancestor of the Antrim MacDonnells)"	Irish		
-3	Thomas Talbot	Thomas Talbot		Interpreter			Dublin Castle	"53.343059024832215, -6.267460588689023"	"clearly affiliated with the court, whether in Dublin or London - given prominence of Talbots in subsequent Irish politics, going with Dublin"	Court		
-4	"Thomas, Archbishop of York"	Thomas; [Thomas Arundel]	Archbishop of York	Witness		York	York Minster	"53.96261321710904, -1.082564232319088"		Clergy	ODNB	
-5	"Robert, Bishop of London"	Robert; [Robert Braybrooke]	Bishop of London	Witness		London	Old St. Paul's	"51.51391872458704, -0.09835060227396925"		Clergy	ODNB	
-6	"Richard, Bishop of Chichester"	Richard; [Richard Mitford]	Bishop of Chichester; Treasurer	Witness		Chichester	Chichester Cathedral	"50.836444616933846, -0.7806593023080537"		Clergy	ODNB	
-7	Thomas Mowbray	Thomas Mowbray	Marshal of England; Earl of Nottingham	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court	ODNB	
-8	Thomas Percy	Thomas Percy	Seneschal	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court	ODNB	
-9	William Scrope	William Scrope; William Lescrop	King's Chamberlain	Witness; Interpreter		London	Westminster	"51.499673068298016, -0.12474482944096953"		Court	ODNB	
-10	Thomas Sparkeford	Thomas Sparkeford	Clerk of the diocese of Bath and Wells	Witness		Wells	Wells Cathedral	"51.210575282198946, -2.6434303599616404"		Clergy		
-11	Catholicus O'Hanlon	Catholicus O'Hanlon; CÒ Uladh; son of 'Avyrcagh'/'Eachmharcach'		Submitter			Tandragee	"54.35433661014168, -6.417615938831388"	"Seems like it should probably be Loughgilly in this period, but unclear exactly where"	Irish		
-12	Donnchadh O'Byrne	Donatus O'Bryn; Donnchadh O'Byrne		Submitter						Irish		DIB
-13	"Robert, Archbishop of Dublin"	Robert; [Robert Waldby]	Archbishop of Dublin; Primate of Ireland; Chancellor	Witness		Dublin	Christ Church	"53.34345533225444, -6.27106020218046"		Clergy	ODNB	DIB
-14	"Robert, Bishop of Lismore and Waterford"	Robert; [Robert Read]	Bishop of Lismore and Waterford	Witness		Waterford	Christ Church	"52.26005051914892, -7.107510486891409"		Clergy		
-15	Simon Felbryge	Simon Felbryge	Standard-bearer; Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court		
-16	Baldwin Bereford	Baldwin Bereford	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-17	Thomas Mareward	Thomas Mareward	Mayor of Dublin	Witness		Dublin	Dublin Castle	"53.343059024832215, -6.267460588689023"		Administrator		
-18	David Bertevyll	David Bertevyll	Sergeant-at-arms	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	"Listed as a ""citizen of London, keeper of Newegate gaol"" in the CPR"	Court		
-19	William Bernard	William Bernard		Witness	Insula Gernon in diocese of Constance					Clergy		
-20	Art O'Dempsey	Arthur de Demesey; Art O'Dempsey		Submitter	Leinster	Ballykean	Ballykean tower house	"53.222980096917325, -7.262605604662662"	"Tower house is certainly too late to be actual center of O'Dempsey lordship in 1395, but seems to be surrounded by other evidence of O'Dempsey lordship - ring-barrow known as ""O'Dempsey's Ring,"" moated site and medieval"	Irish		
-21	John Malachy	John Malachy	Chaplain	Interpreter		Dublin diocese	"Christ Church, Dublin"	"53.34345533225444, -6.27106020218046"	chaplain and clerk of Dublin diocese	Irish Clergy		
-22	"Peter, Archbishop of Cashel"	Peter; [Peter Hackett]	Archbishop of Cashel	Witness		Cashel	Rock of Cashel	"52.52018726099023, -7.890430744550451"		Clergy		
-23	"Tideman, Bishop of Llandaff"	Tideman; [Robert Tideman]	Bishop of Llandaff	Witness		Cardiff	Llandaff Cathedral	"51.49581515376926, -3.217197702793551"		Clergy	ODNB	
-24	"Alexander, Bishop of Meath"	Alexander	Bishop of Meath	Witness		Trim	Cathedral of SS Peter and Paul	"53.555824660725385, -6.7724734444970744"		Clergy		DIB
-25	"Richard, Bishop of Ossory"	Richard	Bishop of Ossory	Witness		Kilkenny	St. Canice's Cathedral	"52.65505417318262, -7.259360585833883"		Clergy	ODNB	DIB
-26	"Thomas, Bishop of Elphin"	Thomas	Bishop of Elphin	Witness		Elphin	St. Mary's Cathedral	"53.84522952503657, -8.19067033028418"		Clergy		
-27	"John, Bishop of Leighlin"	John; John Griffin	Bishop of Leighlin	Witness		Oldleighlin	St. Laserian's Cathedral	"52.73610773387068, -7.025380359884095"		Clergy		
-28	"Miles, Bishop of Cloyne"	Miles	Bishop of Cloyne	Witness		Cloyne	St. Colman's Cathedral	"51.86183188514391, -8.119323571832352"		Clergy	[this should be Gerald Caneton? Per NHI]	
-29	"Edward, Earl of Cork and Rutland"	Edward	Earl of Cork and Rutland	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court	ODNB	
-30	"Roger, Earl of March and Ulster"	Roger; Roger Mortimer	Earl of March and Ulster	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster (despite Mortimer's frequent stints in Ireland)	Court	ODNB	
-31	John Holland	John Holland	Earl of Huntingdon	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court	ODNB	
-32	John Stanley	John Stanley		Authority						Court	ODNB	
-33	William Beg	William Beg	Reeve of Art MacMurrough	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-34	John Nicholson	John Nicholson	Reeve of Art MacMurrough	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-35	Maurice Adalagh	Maurice Adalagh	Reeve of Art MacMurrough	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-36	Malachy Cam	Malachy Cam	Tenant of Art MacMurrough	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-37	John Glasmorgh	John Glasmorgh	Tenant of Art MacMurrough	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-38	Fergal O'Kurryn	Fergal O'Kurryn	Vicar of the parish church of Tamlyn	Interpreter	"Tamlyn, diocese of Leighlin"	Timolin?	St. Mullins Church	"52.984871314450615, -6.808651542688595"	"(identified via OSI, arch survey is down)"	Irish Clergy		
-39	Robert de Orrey	Robert de Orrey	Coventry diocese	Witness			Coventry Cathedral	"52.408720821933144, -1.507126275731839"	"where only diocese is given, geolocated to cathedral"	Unknown		
-40	Henry Bekirton	Henry Bekirton	Lichfield diocese	Witness			Lichfield Cathedral	"52.68563576496434, -1.8303309315376164"		Unknown		
-41	Robert Boleyne	Robert Boleyne	Clerk of Ely diocese	Witness			Ely Cathedral	"52.3989490180776, 0.2624057062999244"		Clergy		
-42	Tadhg O'Meagher	Tatheus O'Mare; Taig O'Meagher	Captain of his nation	Submitter						Irish		
-43	Turloch O'Conor Don	Terrelagh O'Concor; Turloch O'Conor; Terrelagh O'Conor Don	Captain of his nation	Submitter	Connacht		Ballintober Castle	"53.722734056115634, -8.415850491520471"		Irish		
-44	Tadhg MacCarthy Mor	Tatheus MacCarthy; Taig MacCarthy; Tadhg MacCarthy	Prince of the Irish of Desmond	Submitter			Ballycarbery Castle	"51.94903099242467, -10.258605292800087"	death there in 1398 (annals)	Irish		DIB
-45	John Golafre	John Golafre	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-46	Niall Og O'Neill	Nellanus iuvenis O Nel; Niall ”g O'Neill	Captain of his nation	Submitter	Madoyn		Dungannon (the Hill)	"54.5063072522902, -6.768650213215768"	"Nicholls, Gaelic and Gaelicized, 152"	Irish		DIB
-47	Thomas O'Locheran	Thomas O'Locheran		Interpreter			Donaghmore High Cross (closest approx based on Down Survey map - Claggantowne)	"54.531210748889556, -6.81312025513508"	"Mary Phelan, phd diss, cites Eamon O Doibhlin (1959) that Thomas O'Locheran was Thomas O Lucheran, rector of Donaghmore, http://doras.dcu.ie/17739/1/Irish_Language_Court_Interpreting_1901-1922_Mary_Phelan.pdf"	Irish		
-48	"John, Archbishop of Armagh"	John; [John Colton]	Archbishop of Armagh; Primate of all Ireland	Witness			Cathedral Church of St. Patrick (COI)	"54.348037876849645, -6.656671080518698"		Clergy	ODNB	
-49	Maurice Magennis	Maurice Magennis; Muirchertach Magennis	Lord of Iveagh	Submitter	Iveagh		Dundrum Castle	"54.26405024505779, -5.844814792025816"	https://www.brepolsonline.net/doi/abs/10.1484/M.OUTREMER-EB.5.114248	Irish		
-50	Stephen Garnon	Stephen Garnon		Interpreter			Manor of Kilsaran	"53.89242273355447, -6.402687121143925"		Unknown		
-51	Niall O'Hanlon	Neel O'Hanloyn; Niall O'Hanlon		Submitter			Tandragee	"54.35433661014168, -6.417615938831388"	purely on basis of last name and above ID for Catholicus (with same caveats about Loughgilly)	Irish		
-52	Adam Tobyn	"Adam, son of Richard syn Tobyn"		Submitter	de sancto Albano of Cashel diocese		St. Albans Cathedral	"51.75063811575025, -0.34227652942078435"	"unclear what his role is, but St Albans is cathedral city -  big inference though"	Unknown		
-54	Thomas MacShane	Thomas MacShane		Submitter			Glin Castle	"52.57014569642131, -9.294740763174241"	Curtis makes him either Glin or Kerry	Anglo-Irish		
-55	William Barrett	William Barret		Submitter		cantred of Bac and Glen in Tirawley - seems to center on Lough Conn	"Castle, Ballina, bar. Tirawley"	"54.120883056109335, -9.142255900242674"	Curtis 227; Knox; possible towerhouse in Crossmolina	Anglo-Irish		
-56	Maeduc Carragh Barrett	Mayv Carragh Barret; Maeduc Carragh Barret		Submitter		canred of Bac and Glen in Tirawley	"Castle, Ballina, bar. Tirawley"	"54.120883056109335, -9.142255900242674"	Curtis 227	Anglo-Irish		
-57	Bernardus O'Brien	Berandus O'Brien; Bernardus O'Brien; Brian O'Brien	Prince of Thomond	Submitter	Killaloe diocese		Clonroad More (castle)	"52.84795897344801, -8.972026293564303"	"13th c capital at Clonroad (Lydon, NHI 2, 253)"	Irish		DIB
-58	Richard Scrope	Richard Scrope	King's Chamberlain; Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	#NAME?	Court	ODNB	
-59	William Arundel	William Arundel	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	all members of court geolocated to Westminster	Court	peripheral ODNB	
-60	John Melton	John Melton	Clerk of Lincoln diocese	Witness			Lincoln Cathedral	"53.23445090005561, -0.5359512293532843"	"precise location is unclear, geolocated to diocesan seat"	Clergy		
-61	Gerald O'Byrne	Gerald O'Byrne		Submitter						Irish		
-62	Donal O'Nolan	Donal O'Nolan	Captain of his nation	Submitter						Irish		
-63	Edmund Vale	Edmund Vale	Master of the Hospital of St. John of Jerusalem in Ireland	Interpreter; Witness			"Hospitaller house, Kilmainham"	"53.34298855012456, -6.300094260031192"	Getting a little ambiguity on where the headquarters of the order in Ireland were - poss. Clontarf. Dublin seems safer bet (see FCP volume on military orders in Ireland)	Clergy		
-64	Malachy O'More	Malachy O'More	Captain of his nation	Submitter			Rock of Dunamase	"53.032003403834636, -7.210730631050135"		Irish		
-65	Lugaidh Og O'More	Lowyoge; Lowyoge O'More; Lughaidh ”g	Son of Maurice Booy/Murchadh Buidhe	Submitter	Slieve Margy		Rock of Dunamase	"53.032003403834636, -7.210730631050135"		Irish		
-66	Shane O'More	Shane; Shane O'More	Son of Maurice Booy/Murchadh Buidhe	Submitter	Slieve Margy		Rock of Dunamase	"53.032003403834636, -7.210730631050135"		Irish		
-67	Art Og MacMurrough	Arthur MacMourgh; Art ”g MacMurrough	Captain of his nation	Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		DIB (as Art Mor)
-68	Murchadh O'Conor Faly	Murgh O Conghyr de Faly; Murchadh O'Conor Faly	Captain of his nation	Submitter	Offaly		Rathangan (tower house)	"53.21965782033275, -7.0021621740278945"	might be a little early for O'Conor Faly to have taken Rathangan from E of Kildare?	Irish		
-69	David Mor MacManus	David Murgh MacManus; David M‹r MacManus		Submitter						Irish		
-70	E. MacGerailt	E. Macgerold; MacGerailt		Submitter	Hy Kinsella					Irish		
-71	Geoffrey O'Brenan	Geoffrey O'Brenan		Submitter		"lord of Idogh/Ui Duach, around Castlecomer, north Kilkenny"	Castlecomer House (site of two earlier castles)	"52.80625387806498, -7.202831361169027"	Curtis 233; https://www.jstor.org/stable/25554927?seq=1#metadata_info_tab_contents	Irish		
-72	Finghin MacGillapatrick	Fennan MacGillapatrick		Submitter		upper Ossory between the Nore and the Kilkenny border	Aghaboe (castle)	"52.92378377374355, -7.513021134328597"	"Curtis 230; Carrigan, Antiquities of Ossory, vol. 2, 41"	Irish		
-73	Henry Talon	Henry Talon		Submitter					Dorothy Johnston refers to Talon as MacMurrough's satellite	Unknown		
-74	Thomas Carragh Kavanagh	Thomas Carragh [Kavanagh]		Submitter			Ferns Castle	"52.590900115704486, -6.500068251353481"		Irish		
-75	Shane O'Nolan	Shane O'Nolan		Submitter						Irish		
-76	Guy Lenfaunt	Guy Lenfaunt		Interpreter						Unknown		
-77	Leynagh Fersson O'Conor	Leynagh Fersson O'Conor		Submitter	Hyrth		Rathangan (tower house)	"53.21965782033275, -7.0021621740278945"	"Curtis has the O'Conors of Hyrth as a distinct sept, but I find no mention of them yet."	Irish		
-78	Felim O'Toole	O'Toole		Submitter			Powerscourt	"53.18463122519382, -6.1872523309723855"	"Almost certainly too early for O'Toole possession of Powerscourt, but it'll do as a stand-in"	Irish		DIB
-79	Lawrence Verkerell	Lawrence Verkerell	Lord of Coytyf	Witness			Westminster	"51.499673068298016, -0.12474482944096953"	Coytyf = Coity (Wales)	Court		
-80	John Greyly	John Greyly	Knight	Witness	Gascony		Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-81	Galfredo Vale	Galfredo Vale; Alfred Vale	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-82	William Faryndon	William Faryndon; William Faryngdon	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-83	Thomas Clynton	Thomas Clynton	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-84	Nicholas Langford	Nicholas Langford	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-85	Thomas Ilketsale	Thomas Ilketsale	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-86	Thomas Pykworth	Thomas Pykworth	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-87	Alan Penynton	Alan Penynton	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-88	John Brassebrig	John Brassebrig	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-89	Edward Perys	Edward Perys; Edward Perers	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-90	Walter Bytterly	Walter Bytterly	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-91	William Drayton	William Drayton	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-92	John Drayton	John Drayton	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-93	Robert Ley	Robert Ley	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-94	David Wogan	David Wogan	Knight	Witness			Westminster	"51.499673068298016, -0.12474482944096953"		Court		
-95	"James, Earl of Ormond"	James Butler; [Thomas] Butler	Earl of Ormond	Interpreter; Witness			Gowran Castle	"52.6286558112801, -7.061082502234726"		Anglo-Irish		DIB
-96	William de Burgo	William de Burgo		Submitter						Anglo-Irish		
-97	Bernard O'Brien	Bernard O'Brien; Brian O'Brien	Son of Tatheus/Taig O'Brien	Submitter			Clonroad More (castle)	"52.84795897344801, -8.972026293564303"	ambiguous ID	Irish		
-98	Dormicius O'Brien	Dormicius O'Brien; Dermot O'Brien	Son of Tatheus/Taig O'Brien	Submitter			Clonroad More (castle	"52.84795897344801, -8.972026293564303"		Irish		
-99	Odo O'Kennedy Finn	Odo O'Kennedy Fen; Aedh O'Kennedy Finn		Submitter			Nenagh Castle	"52.865144995499804, -8.19816891618452"	properly O'Kennedy Donn and O'Kennedy Fionn should be represented at two separate locations	Irish		
-100	Thomas O'Kennedy Don	Thomas O'Kennedy Don		Submitter			Nenagh Castle	"52.865144995499804, -8.19816891618452"	properly O'Kennedy Donn and O'Kennedy Fionn should be represented at two separate locations	Irish		
-101	Gerald Tallon	Gerald Tallon		Interpreter					related to Henry Talon?	Unknown		
-102	Theobald FitzWalter	Theobald FitzWalter	Munster	Submitter		"Castleconnell, Limerick?"	Castle Connell	"52.71213203579604, -8.503683679502876"	Curtis 227	Anglo-Irish		
-103	David Gall Burke	David Gall Burke	Munster	Submitter		"Gaulstown, par. Gaulskill"	"Unidentified castletown, Gaulstown"	"52.30933453171065, -7.113833917056847"	"Curtis gives Gaulstown; identification of this particular Gaulstown is from O'Kelly Place-Names of County Kilkenny, 108; there is a castle with no info given in the arch survey"	Anglo-Irish		
-105	Tadhg O'Carroll	Tatheus O'Carrol; Taig O'Carrol	Captain of his nation	Submitter	Munster		Leap Castle	"53.03050356029592, -7.809028264884678"	"Late, but an ok approximation"	Irish		DIB
-106	Tadhg O'Kelly	Taig O'Kelly		Submitter	Connacht					Irish		
-107	William O'Carroll	William O'Carrol		Submitter; Interpreter			Leap Castle	"53.03050356029592, -7.809028264884678"	"Late, but an ok approximation"	Irish		
-108	Thomas Merke	Thomas Merke	Monk of Westminster	Witness	Westminster		Westminster Abbey	"51.49946837115046, -0.12730131534475056"		Clergy		
-109	Cologh Magennis	Cologh Magennis; C“ Uladh Magennis		Submitter						Irish		
-110	John Faltagh	John Faltagh		Interpreter						Irish		
-111	Adam MacGilmore	Adam MacGilmore		Submitter	Down diocese					Irish		
-112	Philip MacMahon	Philip MacMahon		Submitter	Oriel/Clogher diocese					Irish		peripheral DIB
-113	Walter Teling	Walter Teling		Interpreter	Armagh diocese					Unknown		
-114	Odo MacMahon	Odo MacMahon; Aedh MacMahon		Submitter	Clogher diocese					Irish		
-115	MacCabe	MacCabe		Submitter	Clogher diocese	Oriel				Irish		
-116	Robert Shortal	Robert Shortal		Witness	Ossory diocese					Unknown		
-117	John Saykyn	John Saykyn		Witness	London diocese				"There is a John Saykyn, draper, named in the History of Parliament entry for John Brockley"	Unknown		
-118	Walter Bermingham	Walter Bermingham		Submitter		Athenry	Athenry castle	"53.29989540496307, -8.74539918683801"	Curtis 227	Anglo-Irish		
-119	John Boor	John Boor	Dean of the king's chapel	Witness						Clergy		
-120	John Borghulle	John Borghulle	King's confessor	Witness			Westminster Abbey	"51.49946837115046, -0.12730131534475056"	"members of court geolocated to Westminster - in this case, to the abbey rather than the palace"	Clergy		
-121	Tuathal O'Kelly	Touhe O'Kelly; Tuathal O'Kelly		Submitter	Leighlin diocese					Irish		
-122	Philip O'Kelly	Philip O'Kelly		Submitter						Irish		
-123	Murchadh Ban O'Farrell	Morgh Bön O'Farrel; Murchadh Bön O'Farrel	"""famous Irishman"""	Submitter	Ardagh diocese					Irish		
-124	Ross O'Farrell	Ross O'Farrel	"""famous Irishman"""	Submitter	Ardagh diocese					Irish		
-125	Melaghlin Mageoghegan	Melaghlin Mageoghegan	"""famous Irishman"""	Submitter						Irish		
-126	Niall O'Molloy	Niall O'Molloy	"""famous Irishman""; son of Rory"	Submitter	Meath county/diocese					Irish		
-127	John Bocombe	John Bocombe		Interpreter	Meath diocese					Unknown		
-128	William Stormy	William Stormy		Witness	Knight					Court		
-129	John Roche	John Roche		Witness	Knight					Court		
-130	Shane MacMahon	Shane MacMahon		Submitter						Irish		
-131	Hugh Lutterell	Hugh Lutterell		Witness						Unknown		
-132	Dermot O'Conor	Dermot O'Conor		Submitter	Offaly					Irish		
-133	John of Desmond	John	"son of the Earl of Desmond, knight"	Interpreter						Anglo-Irish		DIB
-134	Cormac O'Melaghlin	Cormac O'Melaghlin		Submitter	Meath					Irish		
-135	David Mor O'Murchadha	David More O'Morgh; David More O'Morchoe; David More O'Murchadha		Submitter						Irish		
-136	Gillapatrick Rua O'More	Gillapatrick Rua O'More		Submitter			Rock of Dunamase	"53.032003403834636, -7.210730631050135"	"O'Mores destroyed it ca 1350 but clearly kept hold of it, and it seems like a good representation of their sphere in absence of anything better"	Irish		
-137	Richard Nelgan	Richard Nelgan		Interpreter						Unknown		
-139	Simon Vale	Simon Vale		Interpreter						Unknown		
-140	Niall O'Neill	Niall O'Neill senior		Submitter			Dungannon (the Hill)	"54.5063072522902, -6.768650213215768"	"Nicholls, Gaelic and Gaelicized, 152"	Irish		DIB
-142	Maurice FitzMaurice	Maurice FitzMaurice	Knight; Lord of his nation	Submitter; Interpreter		Kerry	Lixnaw Castle	"52.402309862021305, -9.628663487621754"		Anglo-Irish		
-143	Donal MacCarthy	Donal MacCarthy; Donal MacCarthy Reagh		Submitter			Kilbrittain Castle	"51.67552178247685, -8.679032758580476"	"Nothing firm to say that he had Kilbrittain by this point, but it's as good a guess as any"	Irish		peripheral DIB
-144	William Wellesley	William Wellesley	Knight	Interpreter	Kildare					Court		
-145	Malachy O'Kelly	Malachy O'Kelly		Submitter						Irish		possible DIB? As Maolseachlainn O'Kelly
-146	Turloch O'Brien	Turloch O'Brien	Son of Murchadh O'Brien	Submitter	Munster	"Loch Derg, Tipperary"			Curtis 233	Irish		DIB
-147	William O'Cormacan	William O'Cormacan	Bishop of Clonfert	Interpreter	"Clonfert, Connacht"		Clonfert Cathedral	"53.240746466431645, -8.058324987023699"		Clergy		
-148	Thomas O'Dwyer	Thomas O'Dwyer		Submitter						Irish		
-149	Philip O'Kennedy	Philip O'Kennedy	Son of Matthew [Mahon?] Don O'Kennedy	Submitter	Munster		Nenagh Castle	"52.865144995499804, -8.19816891618452"	properly O'Kennedy Donn and O'Kennedy Fionn should be represented at two separate locations	Irish		
-150	Thomas Kildare	Thomas Kildare	Mayor of Limerick	Interpreter	Limerick		King John's Castle	"52.669900149141625, -8.625543760062053"	"Like the mayor of Dublin, I have reservations about placing the mayor in the royal castle, but for now it's an acceptable stand-in"	Administrator		
-151	Nicholas Slake	Nicholas Slake	Archdeacon of Wells	Witness			Wells Cathedral	"51.210575282198946, -2.6434303599616404"		Clergy		
-152	Cormac [Dermot] MacCarthy	"Cormac MacCarthy, son of Dermot MacCarthy"		Submitter			Macroom Castle	"51.90520051539335, -8.96220776599217"		Irish		
-153	Cormac [Donal] MacCarthy	"Cormac MacCarthy, son of Donal MacCarthy"		Submitter			Kilbrittain Castle	"51.67552178247685, -8.679032758580476"		Irish		
-154	John Galwey	John Galwey	Citizen of Waterford	Interpreter	Waterford		Reginald's Tower	"52.26060981564144, -7.105420502725048"	solely on basis of it being identifiably medieval	Anglo-Irish		
-155	Donal Morghysson	Donal Morghysson		Submitter	Wexford diocese					Irish		
-156	William de Angel	William de Angel	Knight	Witness						Court		
-157	William Clynton	William Clynton	esquire	Witness	Poitou and Chester dioceses					Court	poss 4th lord clinton	
-158	Magawley	Magawley	lord	Submitter	Meath diocese	"Calraighe-an-Chala (co-extensive with parish of Ballyloughloe, bar. Clonlonan, co. Westmeath)"			Curtis 232; Ballyloughloe castle?	Irish		
-159	Muirchertach Mageoghegan	Muirchertach Mageoghegan	lord	Submitter	Meath diocese	"Cenel-Fiachach (modern bar. Moycashel, co. Westmeath)"	Castletown Geoghegan (tower house)	"53.443415225674656, -7.489401350912528"	"geolocated to tower house, but nearby castle (now house) is a possibility"	Irish		
-160	Schynagh	"Schynagh; ""the fox"""	lord	Submitter	Meath diocese					Irish		
-161	Thomas MacHegh	Thomas MacHegh; Thomas MacThaidhg	lord	Submitter	Clogher diocese	Muntir Siorthachain - possibly near Calry			"Curtis 231, citing Topographical Poems"	Irish		
-162	Conor O'Melaghlin	Conor O'Melaghlin	"""famous Irishman"""	Submitter	Meath diocese					Irish		
-163	Gilla-Isa O'Reilly	Gilla-Isa O'Reilly	"""famous Irishman"""	Submitter	Clogher diocese		Tullymongan Hill	"53.9887817355458, -7.357948192232346"		Irish		peripheral DIB
-164	Maolmuire O'Reilly	Maolmuire O'Reilly	"""famous Irishman"""	Submitter	Clogher diocese		Tullymongan Hill	"53.9887817355458, -7.357948192232346"		Irish		peripheral DIB
-165	Thomas O'Farrell	Thomas O'Farrel	"""famous Irishman"""	Submitter	Ardagh diocese		Lissardowlan (castle)	"53.71558456704111, -7.7181397682899116"	right in the narrow window between castle's construction and destruction	Irish		peripheral DIB
+PersonID	NameStand	Names	Roles	RoleType
+1	Richard II	Richard II	King of England and France; Lord of Ireland	Authority
+2	John MacDonald	John MacDonald	Captain of his nation; Constable of the Irish of Uster	Submitter
+3	Thomas Talbot	Thomas Talbot		Interpreter
+4	"Thomas, Archbishop of York"	Thomas; [Thomas Arundel]	Archbishop of York	Witness
+5	"Robert, Bishop of London"	Robert; [Robert Braybrooke]	Bishop of London	Witness
+6	"Richard, Bishop of Chichester"	Richard; [Richard Mitford]	Bishop of Chichester; Treasurer	Witness
+7	Thomas Mowbray	Thomas Mowbray	Marshal of England; Earl of Nottingham	Witness
+8	Thomas Percy	Thomas Percy	Seneschal	Witness
+9	William Scrope	William Scrope; William Lescrop	King's Chamberlain	Witness; Interpreter
+10	Thomas Sparkeford	Thomas Sparkeford	Clerk of the diocese of Bath and Wells	Witness
+11	Catholicus O'Hanlon	Catholicus O'Hanlon; CÒ Uladh; son of 'Avyrcagh'/'Eachmharcach'		Submitter
+12	Donnchadh O'Byrne	Donatus O'Bryn; Donnchadh O'Byrne		Submitter
+13	"Robert, Archbishop of Dublin"	Robert; [Robert Waldby]	Archbishop of Dublin; Primate of Ireland; Chancellor	Witness
+14	"Robert, Bishop of Lismore and Waterford"	Robert; [Robert Read]	Bishop of Lismore and Waterford	Witness
+15	Simon Felbryge	Simon Felbryge	Standard-bearer; Knight	Witness
+16	Baldwin Bereford	Baldwin Bereford	Knight	Witness
+17	Thomas Mareward	Thomas Mareward	Mayor of Dublin	Witness
+18	David Bertevyll	David Bertevyll	Sergeant-at-arms	Witness
+19	William Bernard	William Bernard		Witness
+20	Art O'Dempsey	Arthur de Demesey; Art O'Dempsey		Submitter
+21	John Malachy	John Malachy	Chaplain	Interpreter
+22	"Peter, Archbishop of Cashel"	Peter; [Peter Hackett]	Archbishop of Cashel	Witness
+23	"Tideman, Bishop of Llandaff"	Tideman; [Robert Tideman]	Bishop of Llandaff	Witness
+24	"Alexander, Bishop of Meath"	Alexander	Bishop of Meath	Witness
+25	"Richard, Bishop of Ossory"	Richard	Bishop of Ossory	Witness
+26	"Thomas, Bishop of Elphin"	Thomas	Bishop of Elphin	Witness
+27	"John, Bishop of Leighlin"	John; John Griffin	Bishop of Leighlin	Witness
+28	"Miles, Bishop of Cloyne"	Miles	Bishop of Cloyne	Witness
+29	"Edward, Earl of Cork and Rutland"	Edward	Earl of Cork and Rutland	Witness
+30	"Roger, Earl of March and Ulster"	Roger; Roger Mortimer	Earl of March and Ulster	Witness
+31	John Holland	John Holland	Earl of Huntingdon	Witness
+32	John Stanley	John Stanley		Authority
+33	William Beg	William Beg	Reeve of Art MacMurrough	Submitter
+34	John Nicholson	John Nicholson	Reeve of Art MacMurrough	Submitter
+35	Maurice Adalagh	Maurice Adalagh	Reeve of Art MacMurrough	Submitter
+36	Malachy Cam	Malachy Cam	Tenant of Art MacMurrough	Submitter
+37	John Glasmorgh	John Glasmorgh	Tenant of Art MacMurrough	Submitter
+38	Fergal O'Kurryn	Fergal O'Kurryn	Vicar of the parish church of Tamlyn	Interpreter
+39	Robert de Orrey	Robert de Orrey	Coventry diocese	Witness
+40	Henry Bekirton	Henry Bekirton	Lichfield diocese	Witness
+41	Robert Boleyne	Robert Boleyne	Clerk of Ely diocese	Witness
+42	Tadhg O'Meagher	Tatheus O'Mare; Taig O'Meagher	Captain of his nation	Submitter
+43	Turloch O'Conor Don	Terrelagh O'Concor; Turloch O'Conor; Terrelagh O'Conor Don	Captain of his nation	Submitter
+44	Tadhg MacCarthy Mor	Tatheus MacCarthy; Taig MacCarthy; Tadhg MacCarthy	Prince of the Irish of Desmond	Submitter
+45	John Golafre	John Golafre	Knight	Witness
+46	Niall Og O'Neill	Nellanus iuvenis O Nel; Niall ”g O'Neill	Captain of his nation	Submitter
+47	Thomas O'Locheran	Thomas O'Locheran		Interpreter
+48	"John, Archbishop of Armagh"	John; [John Colton]	Archbishop of Armagh; Primate of all Ireland	Witness
+49	Maurice Magennis	Maurice Magennis; Muirchertach Magennis	Lord of Iveagh	Submitter
+50	Stephen Garnon	Stephen Garnon		Interpreter
+51	Niall O'Hanlon	Neel O'Hanloyn; Niall O'Hanlon		Submitter
+52	Adam Tobyn	"Adam, son of Richard syn Tobyn"		Submitter
+54	Thomas MacShane	Thomas MacShane		Submitter
+55	William Barrett	William Barret		Submitter
+56	Maeduc Carragh Barrett	Mayv Carragh Barret; Maeduc Carragh Barret		Submitter
+57	Bernardus O'Brien	Berandus O'Brien; Bernardus O'Brien; Brian O'Brien	Prince of Thomond	Submitter
+58	Richard Scrope	Richard Scrope	King's Chamberlain; Knight	Witness
+59	William Arundel	William Arundel	Knight	Witness
+60	John Melton	John Melton	Clerk of Lincoln diocese	Witness
+61	Gerald O'Byrne	Gerald O'Byrne		Submitter
+62	Donal O'Nolan	Donal O'Nolan	Captain of his nation	Submitter
+63	Edmund Vale	Edmund Vale	Master of the Hospital of St. John of Jerusalem in Ireland	Interpreter; Witness
+64	Malachy O'More	Malachy O'More	Captain of his nation	Submitter
+65	Lugaidh Og O'More	Lowyoge; Lowyoge O'More; Lughaidh ”g	Son of Maurice Booy/Murchadh Buidhe	Submitter
+66	Shane O'More	Shane; Shane O'More	Son of Maurice Booy/Murchadh Buidhe	Submitter
+67	Art Og MacMurrough	Arthur MacMourgh; Art ”g MacMurrough	Captain of his nation	Submitter
+68	Murchadh O'Conor Faly	Murgh O Conghyr de Faly; Murchadh O'Conor Faly	Captain of his nation	Submitter
+69	David Mor MacManus	David Murgh MacManus; David M‹r MacManus		Submitter
+70	E. MacGerailt	E. Macgerold; MacGerailt		Submitter
+71	Geoffrey O'Brenan	Geoffrey O'Brenan		Submitter
+72	Finghin MacGillapatrick	Fennan MacGillapatrick		Submitter
+73	Henry Talon	Henry Talon		Submitter
+74	Thomas Carragh Kavanagh	Thomas Carragh [Kavanagh]		Submitter
+75	Shane O'Nolan	Shane O'Nolan		Submitter
+76	Guy Lenfaunt	Guy Lenfaunt		Interpreter
+77	Leynagh Fersson O'Conor	Leynagh Fersson O'Conor		Submitter
+78	Felim O'Toole	O'Toole		Submitter
+79	Lawrence Verkerell	Lawrence Verkerell	Lord of Coytyf	Witness
+80	John Greyly	John Greyly	Knight	Witness
+81	Galfredo Vale	Galfredo Vale; Alfred Vale	Knight	Witness
+82	William Faryndon	William Faryndon; William Faryngdon	Knight	Witness
+83	Thomas Clynton	Thomas Clynton	Knight	Witness
+84	Nicholas Langford	Nicholas Langford	Knight	Witness
+85	Thomas Ilketsale	Thomas Ilketsale	Knight	Witness
+86	Thomas Pykworth	Thomas Pykworth	Knight	Witness
+87	Alan Penynton	Alan Penynton	Knight	Witness
+88	John Brassebrig	John Brassebrig	Knight	Witness
+89	Edward Perys	Edward Perys; Edward Perers	Knight	Witness
+90	Walter Bytterly	Walter Bytterly	Knight	Witness
+91	William Drayton	William Drayton	Knight	Witness
+92	John Drayton	John Drayton	Knight	Witness
+93	Robert Ley	Robert Ley	Knight	Witness
+94	David Wogan	David Wogan	Knight	Witness
+95	"James, Earl of Ormond"	James Butler; [Thomas] Butler	Earl of Ormond	Interpreter; Witness
+96	William de Burgo	William de Burgo		Submitter
+97	Bernard O'Brien	Bernard O'Brien; Brian O'Brien	Son of Tatheus/Taig O'Brien	Submitter
+98	Dormicius O'Brien	Dormicius O'Brien; Dermot O'Brien	Son of Tatheus/Taig O'Brien	Submitter
+99	Odo O'Kennedy Finn	Odo O'Kennedy Fen; Aedh O'Kennedy Finn		Submitter
+100	Thomas O'Kennedy Don	Thomas O'Kennedy Don		Submitter
+101	Gerald Tallon	Gerald Tallon		Interpreter
+102	Theobald FitzWalter	Theobald FitzWalter	Munster	Submitter
+103	David Gall Burke	David Gall Burke	Munster	Submitter
+105	Tadhg O'Carroll	Tatheus O'Carrol; Taig O'Carrol	Captain of his nation	Submitter
+106	Tadhg O'Kelly	Taig O'Kelly		Submitter
+107	William O'Carroll	William O'Carrol		Submitter; Interpreter
+108	Thomas Merke	Thomas Merke	Monk of Westminster	Witness
+109	Cologh Magennis	Cologh Magennis; C“ Uladh Magennis		Submitter
+110	John Faltagh	John Faltagh		Interpreter
+111	Adam MacGilmore	Adam MacGilmore		Submitter
+112	Philip MacMahon	Philip MacMahon		Submitter
+113	Walter Teling	Walter Teling		Interpreter
+114	Odo MacMahon	Odo MacMahon; Aedh MacMahon		Submitter
+115	MacCabe	MacCabe		Submitter
+116	Robert Shortal	Robert Shortal		Witness
+117	John Saykyn	John Saykyn		Witness
+118	Walter Bermingham	Walter Bermingham		Submitter
+119	John Boor	John Boor	Dean of the king's chapel	Witness
+120	John Borghulle	John Borghulle	King's confessor	Witness
+121	Tuathal O'Kelly	Touhe O'Kelly; Tuathal O'Kelly		Submitter
+122	Philip O'Kelly	Philip O'Kelly		Submitter
+123	Murchadh Ban O'Farrell	Morgh Bön O'Farrel; Murchadh Bön O'Farrel	"""famous Irishman"""	Submitter
+124	Ross O'Farrell	Ross O'Farrel	"""famous Irishman"""	Submitter
+125	Melaghlin Mageoghegan	Melaghlin Mageoghegan	"""famous Irishman"""	Submitter
+126	Niall O'Molloy	Niall O'Molloy	"""famous Irishman""; son of Rory"	Submitter
+127	John Bocombe	John Bocombe		Interpreter
+128	William Stormy	William Stormy		Witness
+129	John Roche	John Roche		Witness
+130	Shane MacMahon	Shane MacMahon		Submitter
+131	Hugh Lutterell	Hugh Lutterell		Witness
+132	Dermot O'Conor	Dermot O'Conor		Submitter
+133	John of Desmond	John	"son of the Earl of Desmond, knight"	Interpreter
+134	Cormac O'Melaghlin	Cormac O'Melaghlin		Submitter
+135	David Mor O'Murchadha	David More O'Morgh; David More O'Morchoe; David More O'Murchadha		Submitter
+136	Gillapatrick Rua O'More	Gillapatrick Rua O'More		Submitter
+137	Richard Nelgan	Richard Nelgan		Interpreter
+139	Simon Vale	Simon Vale		Interpreter
+140	Niall O'Neill	Niall O'Neill senior		Submitter
+142	Maurice FitzMaurice	Maurice FitzMaurice	Knight; Lord of his nation	Submitter; Interpreter
+143	Donal MacCarthy	Donal MacCarthy; Donal MacCarthy Reagh		Submitter
+144	William Wellesley	William Wellesley	Knight	Interpreter
+145	Malachy O'Kelly	Malachy O'Kelly		Submitter
+146	Turloch O'Brien	Turloch O'Brien	Son of Murchadh O'Brien	Submitter
+147	William O'Cormacan	William O'Cormacan	Bishop of Clonfert	Interpreter
+148	Thomas O'Dwyer	Thomas O'Dwyer		Submitter
+149	Philip O'Kennedy	Philip O'Kennedy	Son of Matthew [Mahon?] Don O'Kennedy	Submitter
+150	Thomas Kildare	Thomas Kildare	Mayor of Limerick	Interpreter
+151	Nicholas Slake	Nicholas Slake	Archdeacon of Wells	Witness
+152	Cormac [Dermot] MacCarthy	"Cormac MacCarthy, son of Dermot MacCarthy"		Submitter
+153	Cormac [Donal] MacCarthy	"Cormac MacCarthy, son of Donal MacCarthy"		Submitter
+154	John Galwey	John Galwey	Citizen of Waterford	Interpreter
+155	Donal Morghysson	Donal Morghysson		Submitter
+156	William de Angel	William de Angel	Knight	Witness
+157	William Clynton	William Clynton	esquire	Witness
+158	Magawley	Magawley	lord	Submitter
+159	Muirchertach Mageoghegan	Muirchertach Mageoghegan	lord	Submitter
+160	Schynagh	"Schynagh; ""the fox"""	lord	Submitter
+161	Thomas MacHegh	Thomas MacHegh; Thomas MacThaidhg	lord	Submitter
+162	Conor O'Melaghlin	Conor O'Melaghlin	"""famous Irishman"""	Submitter
+163	Gilla-Isa O'Reilly	Gilla-Isa O'Reilly	"""famous Irishman"""	Submitter
+164	Maolmuire O'Reilly	Maolmuire O'Reilly	"""famous Irishman"""	Submitter
+165	Thomas O'Farrell	Thomas O'Farrel	"""famous Irishman"""	Submitter
