@@ -15,7 +15,7 @@
   <main>
   <h1>People</h1>
     <p>These pages, organized by family, contain brief biographies of each individual named in the submissions. Due to the nature of the surviving sources, as well as the varying social statuses of the named parties, these are sometimes quite rudimentary. However, each page also links to the primary sources in which the individual is named and secondary sources for further reading.</p>
-    <p>Please note that these are still in development, so you may encounter empty entries. If you have information you'd like to contribute on a particular individual or family, please feel free to reach out via the <a href="mappingmunster.margareksmith.com/contact">Contact form</a> - all contributors are named on each page they contribute to.</p>
+    <p>Please note that these are still in development, so you may encounter empty entries. If you have information you'd like to contribute on a particular individual or family, please feel free to reach out via the <a href="mappingmunster.margareksmith.com/contact">Contact form</a> - all contributors are named on each page they contribute to. For a relatively robust entry, see the <a href="/people/MacCarthyReagh.php">MacCarthy Reagh</a>.</p>
     <h2><a id="#family">Families</a></h2>
     <ul>
       <li><a href="/people/deAngel.php">de Angel</a></li>

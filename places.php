@@ -15,7 +15,7 @@
   <main>
       <h1>Places</h1>
       <p>These pages contain brief descriptions of the location, links to the submissions in which they are named or referenced, and a description of how the site was identified and geolocated.</p>
-      <p>Please note that these are still in development, so you may encounter empty entries. If you have information you'd like to contribute on a particular location, please feel free to reach out via the <a href="mappingmunster.margareksmith.com/contact">Contact form</a> - all contributors are named on each page they contribute to.</p>
+      <p>Please note that these are still in development, so you may encounter empty entries. If you have information you'd like to contribute on a particular location, please feel free to reach out via the <a href="mappingmunster.margareksmith.com/contact">Contact form</a> - all contributors are named on each page they contribute to. For a relatively robust entry, see <a href="/places/Dungannon.php">Dungannon</a>.</p>
     <ul>
       <li><a href="/places/ConallAbbey.php">Abbey of Conall, Co. Kildare</a></li>
 <li><a href="/places/Trinity.php">Aboard the ship Trinity, port of Waterford</a></li>
