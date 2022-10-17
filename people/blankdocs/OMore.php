@@ -42,7 +42,19 @@
   <header>
     <?php include "../header.html" ?>
 </header>
-    <h1></h1>
+    <h1>O'More</h1>
+    <div class="row">
+      <div class="column">
+  <p>Jump to:
+  <ul>
+    <li><a href="/people/OMore.php#ShaneOMore">Shane O'More</a></li>
+    <li><a href="/people/OMore.php#LugaidhOMore">Lugaidh O'More</a></li>
+    <li><a href="/people/OMore.php#MalachyOMore">Malachy O'More</a></li>
+  </ul></p>
+  <h4>Futher reading on the O'More family</h4>
+  <p>Vincent P. Carey, "The end of the Gaelic political order: The O'More lordship of Laois 1536-1603," in <i>Laois: History and Society</i>, ed. Padraig G. Lane and William Nolan (Dublin: Geography Publications,)</p>
+</div>
+<div class="column">
   <div style="margin: auto; align: center;" id = "map"></div>
   <script>
     var map = L.map('map', {
@@ -62,13 +74,14 @@
       iconSize: [17, 17],
       popupAnchor: [-3, -76],
     });
-    L.marker([], {icon: churchIcon}).bindPopup('<strong>Location: </strong>').addTo(map);
+    L.marker([53.96261321710904, -1.082564232319088], {icon: churchIcon}).bindPopup('<strong>Location: York Minster</strong>').addTo(map);
+    L.marker([51.38989748942007, 0.5014839976535792], {icon: castleIcon}).bindPopup('<strong>Location: Rochester Castle</strong>').addTo(map);
     </script>
 </div>
 </div>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
-<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Expand Primary Sources, 1350-1450</h3></button>
+<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Click to Expand Primary Sources, 1350-1450</h3></button>
 </div>
 <div id="source" style="display: none;">
   <h4>Full bibliographic information is available on the <a href="/instruments.php">Sources page</a></h4>
@@ -93,6 +106,7 @@ if (x.style.display === "none") {
   <h4>Location</h4>
   <p><a href=""></a></p>
   <h4>Further Reading</h4>
+    <p>Vincent P. Carey, "The end of the Gaelic political order: the O'More lordship of Laois 1536-1603"
       <br/>
   <h2>Contributors</h2>
     <p>Margaret K. Smith</p>

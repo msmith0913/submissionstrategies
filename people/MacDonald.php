@@ -71,7 +71,7 @@
 </div>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
-<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Expand Primary Sources, 1350-1450</h3></button>
+<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Click to Expand Primary Sources, 1350-1450</h3></button>
 </div>
 <div id="source" style="display: none;">
   <h4>Full bibliographic information is available on the <a href="/instruments.php">Sources page</a></h4>
@@ -137,7 +137,7 @@ if (x.style.display === "none") {
   <p><a href="/places/Dungannon.php">Dungannon</a></p>
   <h4>Further Reading</h4>
   <p><strong>Curtis's biographical note:</strong> MacDonald or MacDonnell, Shane, John, or Eoin, see pp. 150, 175. He was son of John or Eoin of Isla. The latter, after joining Edward Balliol and being claimed as his liegeman by Edward III, was confirmed as ‘Lord of the Isles’ in 1372 by King Robert II, whose daughter Margaret he had married. He died in 1387 (AU), ‘King of Insi Gall’, i.e. the Hebrides. His eldest son, Donal ‘of Harlaw’, succeededd him; his second son was Shane of these Submissions, the ancestor of the Antrim MacDonnells. The two brothers quarrelled about John’s share of the patrimony and Donal drove John out of Scotland to take refuge with O’Neill. About 1399 John married Margery Byset, only child and heiress of John Byset, lord of the Glens of Antrim, who had been slain by the Savages of the Ards of Down in 1383 (see Hill’s MacDonnells of Antrim). John in our Submissions calls himself ‘Constable of the Irish of Ulster’; this was a title hereditary in a branch of the Clann-Somhairle which was already settled in Ireland and served the O’Neills: in 1368 Alexander Og MacDonnell, Lord of the Galloglass, died (AU). </p>
-  <p>Simon Egan, “The Early Stewart Kings, the Lordship of the Isles, and Ireland, c. 1371-c. 1433,” <i>Northern Studies</i> 49 (2018): 61-78.</p>
+  <p>Simon Egan, <a href="https://www.ssns.org.uk/wp-content/uploads/2020/04/Egan_2018_Vol_49_pp_61_78.pdf">“The Early Stewart Kings, the Lordship of the Isles, and Ireland, c. 1371-c. 1433,”</a> <i>Northern Studies</i> 49 (2018): 61-78.</p>
   <p>Éamon Ó Doibhlin, “Domhnach Mór: Part IV: The Insurrection of 1641 and Its Background,” <i>Seanchas Ardmhacha</i> 3, no. 2 (1959): 401-429.</p>
   <p>Richard Oram, ed., <i>The Lordship of the Isles</i> (Leiden: Brill, 2014).</p>
   <br/>

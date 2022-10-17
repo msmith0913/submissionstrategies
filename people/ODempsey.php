@@ -69,7 +69,7 @@
 </div>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
-<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Expand Primary Sources, 1350-1450</h3></button>
+<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Click to Expand Primary Sources, 1350-1450</h3></button>
 </div>
 <div id="source" style="display: none;">
 <h4>Full bibliographic information is available on the <a href="/instruments.php">Sources page</a></h4>

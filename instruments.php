@@ -68,6 +68,7 @@
       <p>In addition, Myles V. Roman published a further notarial instrument that, although it did not make it back to England with the bundle of documents that Curtis edited, nevertheless documented a genuine submission. (Myles V. Roman, "Some Mediaeval Documents," <i>Journal of the Royal Society of Antiquaries of Ireland</i>, 7, no. 2 (1937): 229-241.)
         <ul>
           <li><a href="/instruments/Instrument39.php">Instrument 39</a></li>
+        </ul>
     <h1 id="Annals">CELT Texts</h1>
     <p>Many of the surviving annals were edited by scholars like John O'Donovan. Those editions have been further edited and prepared for the web by the <a href="https://celt.ucc.ie">Corpus of Electronic Literature (CELT)</a> at University College Cork. Here I've provided bibliographic information for both the printe and online editions.</p>
       <ul>
@@ -122,13 +123,15 @@
         </ul>
       </ul>
 
-      <h1 id="Secondary">Secondary Sources</h1>
+      <h1 id="Secondary">Selected Secondary Sources</h1>
+      <ul>
       <li>Edmund Curtis, <i>Richard II in Ireland, 1394-5, and Submissions of the Irish Chiefs</i> (Oxford: Clarendon Press, 1927).</li>
-      <li>Simon Egan</li>
+      <li><a href="http://eprints.gla.ac.uk/173253/">Simon Egan, "Richard II and the Wider Gaelic World: A Reassessment," <i>Journal of British Studies</i> 57, no. 2 (2018): 221-252.</a></li>
       <li>Anthony Goodman and James L. Gillespie, eds., <i>Richard II: The Art of Kingship</i> (Oxford: Clarendon Press, 1999).</li>
-      <li>Dorothy Johnston</li>
-      <li>Dorothy Johnston</li>
+      <li>Dorothy Johnston, "Richard II and the Submissions of Gaelic Ireland," <i>Irish Historical Studies</i> 22, no. 85 (1980): 1-20.</li>
+      <li>Dorothy Johnston, "Richard II's Departure from Ireland, July 1399," <i>English Historical Review</i> 98, no. 389 (1983): 785-805.</li>
       <li>Darren McGettigan, <i>Richard II and the Irish Kings</i> (Dublin: Four Courts Press, 2016).</li>
+    </ul>
   </main>
   <footer>
     <?php include "./footer.html" ?>

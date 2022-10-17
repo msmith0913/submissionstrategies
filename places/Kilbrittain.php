@@ -60,11 +60,15 @@
     L.marker([51.67552178247685, -8.679032758580476], {icon: castleIcon}).bindPopup('<strong>Location: Kilbrittain</strong>').addTo(map);
     </script>
   <h4>How was it located?</h4>
-<p>Although there are no sources from this precise moment to demonstrate that Donal Reagh had taken Kilbrittain Castle by 1395, he died there less than twenty years later.</p>
+<p>Although likely a de Courcey castle originally, Kilbrittain Castle was the seat of the MacCarthy Reagh lordship of Carbery for most of the late fifteenth century. It was probably Donal himself who took it in the course of his aggressive expansion, although it is impossible to say exactly when (and whether it was prior to the 1395 submissions). It is clear that Donal used Kilbrittain, as he died there in 1414. However, he was buried in Rosscarbery, suggesting that Kilbrittain did not immediately become Carbery's center of lordly authority. Like many properties of Gaelic lords, Kilbrittain was confiscated and regranted multiple times in the 17th century, and from the eighteenth to early twentieth century, it was owned by the Stawell family, who lost it in bankruptcy proceedings. In 1920, it was burned - part of a wave of "big house" burnings during the Irish Revolution. A few days later, it was reported in the <i>Cork Examiner</i> that "Kilbrittain Castle, recently burned, was to be occupied by military, according to an official report from Dublin Castle." The castle was restored in 1969 and continues as a residence.</p>
   <h4>Sources and Further Reading</h4>
-  <p>Site record for CO124-025001-, derived from the <i>Archaeological Inventory of County Cork</i>, Volume 1: West Cork (Dublin: Stationery Office, 1992).</p>
-  <p>W.F. Butler, "Notes and Queries: Kilbrittain Castle," <i>Journal of the Cork Historical and Archaeological Society</i> 26, no. 124 (1920): 81.</p>
-  <p>C. Coakley, "Kilbrittain Castle," <i>Journal of the Cork Historical and Archaeological Society</i> 26, no. 123 (1920): 18-23.</p>
+  <p><a href="https://maps.archaeology.ie/historicenvironment/?SMRS=CO124-025001-">Site record for Kilbrittain</a> in the National Monuments Service Historic Environment Viewer, derived from the <i>Archaeological Inventory of County Cork</i>, Volume 1: West Cork (Dublin: Stationery Office, 1992).</p>
+  <p>"Kilbrittain Castle," <i>The Cork Examiner</i>, 31 May 1920.</p>
+  <p><a href="https://www.corkhist.ie/wp-content/uploads/jfiles/1920/b1920-011.pdf">W. Butler, "Notes and Queries: Kilbrittain Castle completely destroyed by Fire," <i>Journal of the Cork Historical and Archaeological Society</i> 26, no. 123 (1920): 39.</a></p>
+  <p><a href="https://www.corkhist.ie/wp-content/uploads/jfiles/1920/b1920-037.pdf">W.F. Butler, "Notes and Queries: Kilbrittain Castle," <i>Journal of the Cork Historical and Archaeological Society</i> 26, no. 124 (1920): 81.</a></p>
+  <p>Tim Cahill-O'Brien, "A history of Kilbrittain Castle," <i>Bandon Historical Journal</i> 17 (2001): 56-64. - <i>Note that this is almost entirely a reprint of Coakley's article below.</i></p>
+  <p><a href="https://www.corkhist.ie/wp-content/uploads/jfiles/1920/b1920-003.pdf">C. Coakley, "Kilbrittain Castle," <i>Journal of the Cork Historical and Archaeological Society</i> 26, no. 123 (1920): 18-23.</a></p>
+  <p>Terence Dooley, <i>Burning the Big House</i> (New Haven: Yale University Press, 2022).</p>
     <br/>
   <h2>Contributors</h2>
     <p>Margaret K. Smith</p>

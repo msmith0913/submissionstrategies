@@ -17,7 +17,7 @@
 			bottom: 0;
 			left: 0;
 			right: 0;
-			width: 900px;
+			width: 80%;
 			height: 600px;
 		}
 		.column {
@@ -30,6 +30,20 @@
   content: "";
   display: table;
   clear: both;
+}
+
+.exampleimg {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  max-height: 150px;
+}
+
+.imgcontainer {
+	display: flex;
+	margin: auto;
+	align-items: center;
+	justify-items: center;
 }
 	</style>
 	<meta charset="UTF-8">
@@ -49,9 +63,16 @@
 </header>
 <h1>Mapping the Submissions</h1>
 <h2>How to use the map</h2>
-<p>By default, all people and place layers are turned on, and submission layers are turned off. Hover over either of the two layer buttons in the top right corner to toggle the layers, either individually or in groups. When the data appears on the map, you can click on each point or line to see more information.</p>
+<h3>Toggling layers:</h3>
+<p>By default, all people and place layers are turned on, and submission layers are turned off.</p>
+<p>Hover over either of the two layer buttons in the top right corner to toggle the layers, either individually or in groups.</p>
+<p>When the data appears on the map, you can click on each point or line to see more information.</p>
+<div class="imgcontainer">
+<img class="exampleimg" src="/media/layer-buttons.jpg" alt="Image of the two layer buttons in the top right corner of the map">  <img class="exampleimg" src="/media/expanded-layers.jpg" alt="Image of the two layer buttons with one of them expanded to show the different layers you can toggle">  <img class="exampleimg" src="/media/popup.jpg" alt="Image of a resource popup on the map">
+</div>
+<h3>About the layers:</h3>
 <p>The People and Places layers show all individuals and locations named in or inferred from the text. Click on each point or icon to see more information, including a link to the full record.</p>
-<p>The Submissions layers show each submission event, as recorded in notarial instruments. Each Submission layer includes the individuals named, the site of the submission, and color-coded links indicating the role of each person in the submission: authorities in purple, submitting parties in orange, interpreters in green, and witnesses in gold.</p>
+<p>The Submissions layers show each submission event, as recorded in notarial instruments. Each Submission layer includes the individuals named, their place of origin, the site of the submission, and color-coded lines indicating the role of each person in the submission: authorities in purple, submitting parties in orange, interpreters in green, and witnesses in gold.</p>
 	<div style="margin: auto" id = "map"></div>
 	<script>
 		var map = L.map('map', {
@@ -105,7 +126,7 @@
 		var Macroom = L.marker([51.90520051539335, -8.96220776599217], {icon: castleIcon}).bindPopup('<strong>Location: Macroom</strong><br/><a href="/places/MacroomCastle.php">View resources</a>');
 		var Reginalds = L.marker([52.26060981564144, -7.105420502725048], {icon: castleIcon}).bindPopup('<strong>Location: Waterford (Reginald&apos;sTower)</strong><br/><a href="/places/Waterford.php">View resources</a>');
 		var Geoghegan = L.marker([53.443415225674656, -7.489401350912528], {icon: castleIcon}).bindPopup('<strong>Location: Castletown Geoghegan</strong><br/><a href="/places/CastletownGeoghegan.php">View resources</a>');
-		var Tullymongan = L.marker([53.9887817355458, -7.357948192232346], {icon: castleIcon}).bindPopup('<strong>Location: Tullymongan Hill</strong><br/><a href="/places/TullymonganHill.php">View resources</a>');
+		var Tullymongan = L.marker([53.9887817355458, -7.357948192232346], {icon: castleIcon}).bindPopup('<strong>Location: Tullymongan</strong><br/><a href="/places/Tullymongan.php">View resources</a>');
 		var Lissardowlan = L.marker([53.71558456704111, -7.7181397682899116], {icon: castleIcon}).bindPopup('<strong>Location: Lissardowlan</strong><br/><a href="/places/Lissardowlan.php">View resources</a>');
 		var Ballygory = L.marker([52.835027006518125, -6.7951297352061655], {icon: castleIcon}).bindPopup('<strong>Location: Balygory</strong><br/><a href="/places/Balygory.php">View resources</a>');
 		var CarlowCastle = L.marker([52.83634711708233, -6.935924273548353], {icon: castleIcon}).bindPopup('<strong>Location: Carlow Castle</strong><br/><a href="/places/Carlow.php">View resources</a>');
@@ -891,7 +912,7 @@
 			fillColor: '#f03',
 			fillOpacity: 0.5,
 			radius: 30
-		}).bindPopup('<strong>Name: Donal MacCarthy</strong><br/>Role: Submitting party<br/>Location: Kilbrittain Castle<br/><a href="/people/MacCarthyReagh.php">View resources</a>');
+		}).bindPopup('<strong>Name: Donal MacCarthy Reagh</strong><br/>Role: Submitting party<br/>Location: Kilbrittain Castle<br/><a href="/people/MacCarthyReagh.php">View resources</a>');
 		// <strong>Name: William Wellesley</strong><br/>Role: Interpreter<br/>Position(s): Knight<br/>[N/A]
 		// <strong>Name: Malachy O&apos;Kelly</strong><br/>Role: Submitting party<br/>[N/A]
 		// <strong>Name: Turloch O&apos;Brien</strong><br/>Role: Submitting party<br/>Position: Son of Murchadh O&apos;Brien<br/>[N/A]
@@ -1856,7 +1877,7 @@ var Wit9g = L.polyline(Ins9WilliamScrope, {color: '#f7dc6f', offset: 3}).bindPop
 			[53.34189533431597, -6.280755924061299]
 	];
 
-	var Auth14 = L.polyline(Ins14R2, {color: '#8e44ad', stroke: 2}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;OBrien<br/><strong>Authority:</strong> Richard II<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
+	var Auth14 = L.polyline(Ins14R2, {color: '#8e44ad', stroke: 2}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;OBrien<br/><strong>Authority:</strong> Richard II<br/>Submission site: Monastery of St Thomas the Martyr<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
 
 	// Bernardus O'Brien
 	var Ins14BernardusOBrien = [
@@ -1864,7 +1885,7 @@ var Wit9g = L.polyline(Ins9WilliamScrope, {color: '#f7dc6f', offset: 3}).bindPop
 			[53.34189533431597, -6.280755924061299]
 	];
 
-	var Sub14 = L.polyline(Ins14BernardusOBrien, {color: '#e67e22'}).bindPopup('<i>Instrument 14</i><br/><strong>Submitting party:</strong> Bernardus O&apos;Brien<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
+	var Sub14 = L.polyline(Ins14BernardusOBrien, {color: '#e67e22'}).bindPopup('<i>Instrument 14</i><br/><strong>Submitting party:</strong> Bernardus O&apos;Brien<br/>Submission site: Monastery of St Thomas the Martyr<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
 
 	// Witnesses: Richard Scrope; William Arundel
 	var Ins14RichardScrope = [
@@ -1872,14 +1893,14 @@ var Wit9g = L.polyline(Ins9WilliamScrope, {color: '#f7dc6f', offset: 3}).bindPop
 			[53.34189533431597, -6.280755924061299]
 	];
 
-	var Wit14a = L.polyline(Ins14RichardScrope, {color: '#f7dc6f'}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;Brien<br/><strong>Witnesses:</strong> Richard Scrope; William Arundel<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
+	var Wit14a = L.polyline(Ins14RichardScrope, {color: '#f7dc6f'}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;Brien<br/><strong>Witnesses:</strong> Richard Scrope; William Arundel<br/>Submission site: Monastery of St Thomas the Martyr<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
 
 	var Ins14WilliamArundel = [
 			[52.408720821933144, -1.507126275731839],
 			[53.34189533431597, -6.280755924061299]
 	];
 
-	var Wit14b = L.polyline(Ins14WilliamArundel, {color: '#f7dc6f'}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;Brien<br/><strong>Witnesses:</strong> Richard Scrope; William Arundel<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
+	var Wit14b = L.polyline(Ins14WilliamArundel, {color: '#f7dc6f'}).bindPopup('<i>Instrument 14</i><br/>Bernardus O&apos;Brien<br/><strong>Witnesses:</strong> Richard Scrope; William Arundel<br/>Submission site: Monastery of St Thomas the Martyr<br/><a href="/instruments/Instrument14.php">View the submission text</a>');
 
 // Instrument 15: Parlay at Carlow
 
@@ -1995,10 +2016,86 @@ var Wit9g = L.polyline(Ins9WilliamScrope, {color: '#f7dc6f', offset: 3}).bindPop
 
 // Instrument 30: Tadhg MacCarthy Mor and Donal MacCarthy Reagh, Kilkenny Dominican Priory
 	// Richard II
+	var Ins30R2 = [
+			[51.499673068298016, -0.12474482944096953],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Auth30 = L.polyline(Ins30R2, {color: '#8e44ad', stroke: 2}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Authority:</strong> Richard II<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
 	// Tadhg MacCarthy Mor
+	var Ins30TadhgMacCarthyMor = [
+			[51.94903099242467, -10.258605292800087],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Sub30a = L.polyline(Ins30TadhgMacCarthyMor, {color: '#e67e22'}).bindPopup('<i>Instrument 30</i><br/><strong>Submitting party:</strong> Tahdg MacCarthy Mor<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
 	// Donal MacCarthy Reagh
+	var Ins30DonalMacCarthyReagh = [
+			[51.67552178247685, -8.679032758580476],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Sub30b = L.polyline(Ins30DonalMacCarthyReagh, {color: '#e67e22'}).bindPopup('<i>Instrument 30</i><br/><strong>Submitting party:</strong> Donal MacCarthy Reagh<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
 	// Maurice FitzMaurice
+	var Ins30MauriceFitMaurice = [
+			[52.402309862021305, -9.628663487621754],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Int30 = L.polyline(Ins30MauriceFitMaurice, {color: '#27ae60'}).bindPopup('<i>Instrument 30</i><br/>Submission of Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Interpreter:</strong> Maurice FitzMaurice<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
 	// Witnesses: Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope
+	var Ins30RobertAbpDublin = [
+			[53.34345533225444, -6.27106020218046],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30a = L.polyline(Ins30RobertAbpDublin, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30RichardBpChichester = [
+			[50.836444616933846, -0.7806593023080537],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30b = L.polyline(Ins30RichardBpChichester, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30TidemanBpLlandaff = [
+			[51.49581515376926, -3.217197702793551],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30c = L.polyline(Ins30TidemanBpLlandaff, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30RobertBpLismoreWaterford = [
+			[52.26005051914892, -7.107510486891409],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30d = L.polyline(Ins30RobertBpLismoreWaterford, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30EdwardCorkRutland = [
+			[52.524520973168976, -0.4355533758965811],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30e = L.polyline(Ins30EdwardCorkRutland, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30JohnHolland = [
+			[51.76391915878651, -0.5598456374405312],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30f = L.polyline(Ins30JohnHolland, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
+
+	var Ins30WilliamScrope = [
+			[51.48398083527779, -0.6044134311929068],
+			[52.653899031468974, -7.257574029379863]
+	];
+
+	var Wit30g = L.polyline(Ins30WilliamScrope, {color: '#f7dc6f'}).bindPopup('<i>Instrument 30</i><br/>Tadhg MacCarthy Mor and Donal MacCarthy Reagh<br/><strong>Witnesses:</strong> Robert, Archbishop of Dublin; Richard, Bishop of Chichester; Tideman, Bishop of Llandaff; Robert, Bishop of Lismore and Waterford; Edward, Earl of Cork and Rutland; John Holland; William Scrope<br/>Submission site: Kilkenny Dominican Priory<br/><a href="/instruments/Instrument30.php">View the submission text</a>');
 
 // Instrument 31: Murchadh O'Conor Faly, Conall Abbey
 // Instrument 32: Malachy O'Kelly, Drogheda Dominican Priory
@@ -2051,7 +2148,7 @@ var Wit9g = L.polyline(Ins9WilliamScrope, {color: '#f7dc6f', offset: 3}).bindPop
 //		var instrument27 = L.layerGroup([RichardII, DermotOConor, CormacOMelaghlin, JohnDesmond, TidemanBpLlandaff, RobertBpLismoreWaterford, JohnHolland, WilliamScrope]);
 //		var instrument28 = L.layerGroup([RichardII, ThomasCarraghKavanagh, DavidMorOMurchadha, GillapatrickRuaOMore, RichardNelgan, RichardBpChichester, TidemanBpLlandaff, JohnHolland, ThomasPercy, WilliamScrope, DonalONolan, SimonVale]);
 		var instrument29 = L.layerGroup([RichardII, NiallONeill, NiallOgONeill, JohnAbpArmagh, RichardBpChichester, TidemanBpLlandaff, RobertBpLismoreWaterford]);
-		var instrument30 = L.layerGroup([RichardII, TadhgMacCarthyMor, DonalMacCarthy, MauriceFitzMaurice, RobertAbpDublin, RichardBpChichester, TidemanBpLlandaff, RobertBpLismoreWaterford, EdwardCorkRutland, JohnHolland, WilliamScrope]);
+		var instrument30 = L.layerGroup([RichardII, TadhgMacCarthyMor, DonalMacCarthy, MauriceFitzMaurice, RobertAbpDublin, RichardBpChichester, TidemanBpLlandaff, RobertBpLismoreWaterford, EdwardCorkRutland, JohnHolland, WilliamScrope, Auth30, Sub30a, Sub30b, Int30, Wit30a, Wit30b, Wit30c, Wit30d, Wit30e, Wit30f, Wit30g, Westminster, Ballycarbery, Kilbrittain, Lixnaw, ChristChurchDub, ChichesterCath, LlandaffCath, ChristChurchWat, Fotheringay, Berkhamsted, KilkennyDom]);
 //		var instrument31 = L.layerGroup([RichardII, MurchadhOConorFaly, WilliamWellesley, RichardBpChichester, TidemanBpLlandaff, WilliamScrope, HughLutterell]);
 //		var instrument32 = L.layerGroup([RichardII, MalachyOKelly, TidemanBpLlandaff, WilliamScrope]);
 //		var instrument33 = L.layerGroup([RichardII, TurlochOBrien, WilliamOCormacan, RichardBpChichester, TidemanBpLlandaff, MilesBpClon, RobertBpLismoreWaterford, RogerMarchUlster, ThomasMowbray, JohnHolland]);

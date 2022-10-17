@@ -168,7 +168,7 @@ PersonID	PersonText	LocationText	Geolocation	Coordinates	LocationRelation	Precis
 	Donal O'Conor of Sligo							
 	[] O'Conor of Thomond						Very certain	
 	[] O'Dea		Dysert O'Dea	"52.91148123006832, -9.066378702380634"	Residence	Castle	Moderately certain	
-	[] O'Dowd		Castleconor	"54.16135919981353, -9.13570253897111"	Locus of authority	Castle	Moderately certain	
+	[] O'Dowd		Dunneill Castle	"54.2484568154653, -8.87357166666224"	Residence	Castle	Very certain	
 	[] O'Dunn		Castlebrack	"53.19734368382633, -7.395264768246803"	Residence	Castle		
 	[] O'Flanagan							
 	[] O'Gara							

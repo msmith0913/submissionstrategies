@@ -68,7 +68,7 @@
 </div>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
-<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Expand Primary Sources, 1350-1450</h3></button>
+<button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Click to Expand Primary Sources, 1350-1450</h3></button>
 </div>
 <div id="source" style="display: none;">
   <h4>Full bibliographic information is available on the <a href="/instruments.php">Sources page</a></h4>
@@ -93,6 +93,8 @@ if (x.style.display === "none") {
   <h4>Location</h4>
   <p><a href=""></a></p>
   <h4>Further Reading</h4>
+  <p>Griffin Murray, "The Breac Maodhóg: a unique medieval Irish reliquary" in <i>Cavan: History and Society</i>, ed. Jonathan Cherry, Brendan Scott, and William Nolan (Dublin: Geography Publications, 2014): 83-125.</p>
+
       <br/>
   <h2>Contributors</h2>
     <p>Margaret K. Smith</p>
