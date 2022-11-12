@@ -1,4 +1,4 @@
-Group	PersonID	PersonText	LocationText	Coordinates	Geolocation	LocationRelation	Precision	Certainty	url
+group	numid	id	LocationText	Coordinates	Geolocation	LocationRelation	Precision	Certainty	url
 Submission data	1	Richard II		"51.499673068298016, -0.12474482944096953"	Westminster Palace	Seat of authority	Castle	Very certain	
 Submission data	2	John MacDonald		"54.505752709391544, -6.7675603709869145"	Dungannon	Residence	Castle	Very certain	
 Submission data	3	Thomas Talbot		"53.44494090251295, -6.164572199713146"	Malahide Castle	Residence	Castle	Moderately certain	
@@ -136,7 +136,7 @@ Submission data	137	Richard Nelgan
 Submission data	139	Simon Vale							
 Submission data	140	Niall Mor O'Neill		"54.5053072522902, -6.768650213215768"	Dungannon	Residence	Castle	Very certain	
 Submission data	142	Maurice FitzMaurice		"52.402309862021305, -9.628663487621754"	Lixnaw Castle	Residence	Castle		
-Submission data	145	Malachy O'Kelly of Hy Many							
+Submission data	145	Maoilsheachluinn O'Kelly	(Malachy)						
 Submission data	143	Donal MacCarthy Reagh		"51.67552178247685, -8.679032758580476"	Kilbrittain	Residence	Castle	Moderately certain	
 Submission data	144	William Wellesley							
 Submission data	146	Turloch O'Brien of Ara							
@@ -160,20 +160,23 @@ Submission data	164	Maolmuire O'Reilly		"53.9887817355458, -7.357948192232346"	T
 Submission data	165	Thomas O'Farrell		"53.71558456704111, -7.7181397682899116"	Lissardowlan	Residence	Castle		
 Submission data	166	Thomas de Burgo						Very certain	
 Submission data	167	Maelruanaidh MacDermot		"53.98956185474765, -8.232547955745472"	Rock of Lough Key	Residence	Castle	Very certain	
+Submission data	138	Shane MacDermot							
 Submission data	168	Tomaltach MacDonagh		"54.08791447559624, -8.519896161365837"	Ballymote Castle	Residence	Castle	Moderately certain	
 Submission data	169	[] MacKeogh		"52.590900115704486, -6.500068251353481"	Ferns Castle	Overlord	Castle	Moderately uncertain	
+Submission data	155	Tadhg MacMahon		"52.64641698823626, -9.271418338721034"	Clonderalaw Castle	Residence	Castle	Very certain	
 Submission data	170	Maurice MacMahon		"52.64641698823626, -9.271418338721034"	Clonderalaw Castle	Residence	Castle	Very certain	
 Submission data	171	Laurence MacNamara		"52.696672602478685, -8.812124229456206"	Bunratty Castle	Residence	Castle		
 Submission data	172	Tadhg O'Beirne							
 Submission data	173	Donal O'Conor Sligo							
 Submission data	174	Cornelius O'Conor of Thomond						Very certain	
 Submission data	175	Cornelius O'Dea		"52.91148123006832, -9.066378702380634"	Dysert O'Dea	Residence	Castle	Moderately certain	
-Submission data	176	Rory O'Dowd		"54.2484568154653, -8.87357166666224"	Dunneill Castle	Residence	Castle	Very certain	
+Submission data	176	Ruaidhri O'Dowda		"54.2484568154653, -8.87357166666224"	Dunneill Castle	Residence	Castle	Very certain	
 Submission data	177	[] O'Dunn		"53.19734368382633, -7.395264768246803"	Castlebrack	Residence	Castle		
 Submission data	178	Dermot O'Flanagan							
 Submission data	179	Tomaltach O'Gara							
 Submission data	180	Odo O'Hanly							
 Submission data	181	Shane O'Hara							
+Submission data	141	Tadhg O'Hara							
 Submission data	182	Odo O'Hehir							
 Submission data	183	Donal O'Hehir							
 Submission data	184	Iriel O'Lochlainn							
@@ -186,9 +189,9 @@ Marriage data	190	Unknown MacNamara-1
 Marriage data	191	d. O'Daly							
 Marriage data	192	Unknown O'Daly-1							
 Marriage data	193	Unknown MacNamara-2							
-Marriage data	194	d. Turlough O'Conor							
-Marriage data	195	Turlough O'Conor							
-Marriage data	196	Cathal Oge O'Conor							
+Marriage data	194	d. Turlough O'Conor-1							
+Marriage data	195	Turlough mac Aodh O'Conor							
+Marriage data	196	Cathal Og O'Conor							
 Marriage data	197	Una O'Conor							
 Marriage data	198	Manus mac Cu-Connacht O'Reilly							
 Marriage data	199	Grainne O'Kelly							
@@ -203,7 +206,7 @@ Marriage data	208	d. Seoinin Burke
 Marriage data	209	Seoinin Burke							
 Marriage data	210	Donnchadh Carrach O'Kelly							
 Marriage data	211	Aedh mac Turlough O'Conor							
-Marriage data	212	d2. Turlough O'Conor							
+Marriage data	212	d. Turlough O'Conor-2							
 Marriage data	213	Ferghal O'Reilly							
 Marriage data	214	Dubog Maguire							
 Marriage data	215	Aedh Maguire							
@@ -211,7 +214,7 @@ Marriage data	216	Cu-Connacht mac Philip MacMahon
 Marriage data	217	Fionnghuala O'Malley							
 Marriage data	218	Domhnall Ruadh O'Malley							
 Marriage data	219	Domhnall Cleirach O'Dowda							
-Marriage data	220	Catherine/Lasarina/Catirfina O'Farrell							
+Marriage data	220	Catherine O'Farrell							
 Marriage data	221	Unknown O'Farrell-2							
 Marriage data	222	Unknown O'Reilly-1							
 Marriage data	223	Margaret Burke							
@@ -235,8 +238,7 @@ Marriage data	240	Bevin Mageoghegan
 Marriage data	241	Unknown Mageoghegan-1							
 Marriage data	242	Unknown Sionnach-1							
 Marriage data	243	Derbail MacDermot							
-Marriage data	244	Maelruanaidh MacDermot							
-Marriage data	245	Ualgarg O'Rourke Mor							
+Marriage data	245	Ualgarg O'Rourke							
 Marriage data	246	Bebinn O'Rourke							
 Marriage data	247	Tomaltagh MacDonough							
 Marriage data	248	Dubchablach O'Reilly							
@@ -264,7 +266,7 @@ Marriage data	269	Bebinn O'Dunne
 Marriage data	270	Donnell O'Dunne							
 Marriage data	271	Unknown O'Dempsey-1							
 Marriage data	272	Finnghuala O'Kelly							
-Marriage data	273	O'Kelly-3							
+Marriage data	273	Unknown O'Kelly-3							
 Marriage data	274	Unknown Mac William Burke-1							
 Marriage data	275	Aine MacNamara							
 Marriage data	276	Unknown MacNamara-4							
@@ -284,8 +286,7 @@ Marriage data	290	Dubchablach MacDermot
 Marriage data	291	Aedh MacDermot							
 Marriage data	292	Cathal Roe MacRannell							
 Marriage data	293	Lasairfina O'Conor							
-Marriage data	294	Turlough O'Conor-2							
-Marriage data	295	Unknown MacRannell-2							
+Marriage data	295	Unknown MacRannell Dubh-1							
 Marriage data	296	Raghnailt MacBrady							
 Marriage data	297	Unknown MacBrady-1							
 Marriage data	298	Unknown MacDarcy-1							
@@ -296,7 +297,7 @@ Marriage data	302	Murrough O'Madden
 Marriage data	303	Richard Mac William Burke							
 Marriage data	304	Joanna Cam Butler							
 Marriage data	305	James Butler							
-Marriage data	306	Teige O'Carroll							
+Marriage data	306	Tadhg O'Carroll-1							
 Marriage data	307	d. O'Brien							
 Marriage data	308	Unknown O'Brien-1							
 Marriage data	309	Unknown O'Kennedy-1							
@@ -329,7 +330,7 @@ Marriage data	337	Jeffrey O'Flanagan
 Marriage data	338	William MacBrannan							
 Marriage data	339	Edain O'Conor							
 Marriage data	340	Brian mac Mail-Shechlainn O'Kelly							
-Marriage data	341	Cablaigh Mor							
+Marriage data	341	Cablaigh Mor O'Conor							
 Marriage data	342	Niall O'Donnell							
 Marriage data	343	Aedh O'Rourke							
 Marriage data	344	Cathal mac Aedh O'Conor							
@@ -344,9 +345,8 @@ Marriage data	353	d. Brian O'Farrell
 Marriage data	354	Brian O'Farrell							
 Marriage data	355	Unknown Sionnach-2							
 Marriage data	356	Finnghuala O'Farrell							
-Marriage data	357	Unknown MacSweeny							
+Marriage data	357	Unknown MacSweeny-1							
 Marriage data	358	Finnghuala O'Conor							
-Marriage data	359	Mail-Shechlainn O'Kelly							
 Marriage data	360	d. O'Conor Faly							
 Marriage data	363	Nualaith O'Conor							
 Marriage data	365	Farrell mac Conor MacDonough							
@@ -368,7 +368,7 @@ Marriage data	382	Maelsechlainn Mor MacOwen
 Marriage data	383	Joan Fitzgerald							
 Marriage data	385	Sabia O'Rourke							
 Marriage data	386	Edmund mac Thomas O'Farrell							
-Marriage data	387	Catherine/Catirfina MacDonough							
+Marriage data	387	Catherine MacDonough							
 Marriage data	388	Maelsechlainn mac Maurice MacDonough							
 Marriage data	389	Unknown MacFirbisigh-1							
 Marriage data	390	Bebinn MacDonough							
@@ -392,30 +392,29 @@ Marriage data	408	William mac Walter Burke
 Marriage data	409	Cumscrach MacRannell							
 Marriage data	410	Grainne MacDermot							
 Marriage data	411	Fergal MacDermot							
-Marriage data	412	Unknown MacRannell Dubh-1							
+Marriage data	412	Unknown MacRannell Dubh-2							
 Marriage data	413	Lasarina O'Conor							
-Marriage data	414	Cathal mac Aedh Breifneach							
+Marriage data	414	Cathal mac Aedh Breifneach O'Conor							
 Marriage data	415	Melaghlin mac Flaherty O'Rourke							
 Marriage data	416	Finnguala MacRannell							
-Marriage data	417	Unknown MacRannell-3							
+Marriage data	417	Unknown MacRannell-2							
 Marriage data	418	Richard mac Thomas O'Reilly							
 Marriage data	419	Lasarfina O'Hanley							
 Marriage data	421	Murchadh mac Tomas O'Birn							
 Marriage data	422	d. O'Broin							
-Marriage data	423	Unknown O'Broin							
+Marriage data	423	Unknown O'Broin-1							
 Marriage data	424	Donnell Finn MacHerbert							
 Marriage data	425	Anabla MacJordan d'Exeter							
 Marriage data	426	Unknown MacJordan d'Exeter-1							
 Marriage data	427	Uilliam mac Maelsechlainn O'Kelly							
 Marriage data	428	Mary Burke							
-Marriage data	429	Unknown Burke							
-Marriage data	430	James(?) Fitzgerald							
+Marriage data	429	Unknown Burke-1							
+Marriage data	430	James Fitzgerald							
 Marriage data	431	Mor O'Durnin							
-Marriage data	432	Unknown O'Durnin							
+Marriage data	432	Unknown O'Durnin-1							
 Marriage data	433	Tomaltach O'Birn							
 Marriage data	434	Mor O'Brien							
-Marriage data	435	Brian O'Brien							
-Marriage data	436	Walter Burke-3?							
+Marriage data	436	Walter Burke-3							
 Marriage data	437	Tadhg O'Carroll-2							
 Marriage data	438	d. Walter Burke							
 Marriage data	439	Conor O'Brien-2							
@@ -444,7 +443,6 @@ Marriage data	462	Eogan O'Reilly
 Marriage data	463	Aine O'Rourke							
 Marriage data	464	Unknown O'Farrell-5							
 Marriage data	465	Una O'Reilly							
-Marriage data	466	John O'Reilly							
 Marriage data	467	Mathgamain MacCabe							
 Marriage data	468	d. O'Conor Faly-2							
 Marriage data	469	Unknown O'Conor Faly-3							
@@ -508,6 +506,5 @@ Marriage data	526	d. Robin Lawless
 Marriage data	527	Robin Lawless							
 Marriage data	528	Brian O'Dowda							
 Marriage data	529	Barrdubh O'Conor							
-Marriage data	530	Domhnall O'Conor							
 Marriage data	531	Honora Barrett							
 Marriage data	532	Unknown Mac Wattin Barrett-2							

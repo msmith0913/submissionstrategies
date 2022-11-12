@@ -42,7 +42,7 @@
   <header>
     <?php include "../header.html" ?>
 </header>
-    <h1></h1>
+    <h1>MacConmara</h1>
   <div style="margin: auto; align: center;" id = "map"></div>
   <script>
     var map = L.map('map', {
@@ -62,10 +62,12 @@
       iconSize: [17, 17],
       popupAnchor: [-3, -76],
     });
-    L.marker([], {icon: churchIcon}).bindPopup('<strong>Location: </strong>').addTo(map);
+    L.marker([52.83029122858293, -8.807711984095656], {icon: castleIcon}).bindPopup('<strong>Location: Daingean Ui Bhigin</strong>').addTo(map);
     </script>
 </div>
 </div>
+<h4>Further reading on the Mac Conmara family</h4>
+<p></p>
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
 <button onclick="sourceexpand()" style="text-align: center;"><h3 style="color: white;">Click to Expand Primary Sources, 1350-1450</h3></button>
@@ -90,9 +92,11 @@ if (x.style.display === "none") {
   <ul>
   </ul>
   <h4>About</h4>
+  <p>This unnamed MacConmara, describec by Curtis only as "one of O'Brien's urraghts," is probably Maccon MacConmara.</p>
   <h4>Location</h4>
-  <p><a href=""></a></p>
+  <p><a href="">Daingean Ui Bhigin</a></p>
   <h4>Further Reading</h4>
+  <p>Luke McInerney, "A fourteenth-century poem on the Meic Conmara lords of Clann Chuiléin," <i>Studia Hibernica</i> 40 (2014): 35-69.</p>
       <br/>
   <h2>Contributors</h2>
     <p>Margaret K. Smith</p>

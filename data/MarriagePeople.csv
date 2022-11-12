@@ -1,4 +1,4 @@
-﻿PersonID,Name,Ob,Fl,SourceYear,Relations,OtherRelations,Notes
+﻿ID,Name,Ob,Fl,SourceYear,Relations,OtherRelations,Notes
 1,d. O'Dwyer,,ca 1340?,1369,"Daughter of O'Dwyer, wife(?) of MacNamara","Mother of Sida Og MacNamara, who took wardenship of Limerick in 1366",
 2,Unknown O'Dwyer-1,,ca 1320?,1369,Father of d. O'Dwyer,,
 3,Unknown MacNamara-1,,ca 1340?,1369,Husband(?) of d. O'Dwyer,Father of Sida Og MacNamara,
@@ -10,30 +10,30 @@
 9,Cathal Oge O'Conor,,ca 1350?,1395,"Husband of d. Turlough O'Conor, father of Dervorgilla and Edain O'Conor",Father of Aedh O'Conor,
 10,Una O'Conor,,ca 1350?,1395,"Daughter of Turlough O'Conor, wife of Manus mac Cu-Connacht O'Reilly",,
 11,Manus mac Cu-Connacht O'Reilly,,ca 1350?,1395,Husband of Una O'Conor,Father of Cu-Connacht mac Manus O'Reilly,
-12,Grainne O'Kelly,1440,ca 1400?,1424,"Daughter of O'Kelly, wife(?) of Turlough O'Conor, wife of Tadhg O'Brien",Mother of Ruaidhri mac Turlough O'Conor,Death in AFM1440.11
-13,Unknown O'Kelly-1,,ca 1380?,1424,Father of Grainne O'Kelly,,
-14,Tadhg O'Brien,,1424,1424,Husband of Grainne O'Kelly,,
+12,Grainne O'Kelly,1440,ca 1400?,1424,"Daughter of Maoilsheachluinn O'Kelly, wife(?) of Turlough O'Conor, wife of Tadhg O'Brien",Mother of Ruaidhri mac Turlough O'Conor,Death in AFM1440.11
+13,Maoilsheachluinn O'Kelly,1401,ca 1380?,1424,Father of Grainne O'Kelly,,Forename and death in AiD
+14,Tadhg O'Brien,1444,1424,1424,Husband of Grainne O'Kelly,,Death in AiD
 15,Gormlaith O'Donnell,1353,,1353,"Daughter of O'Donnell, wife of Aedh O'Neill",,"Per Simms, actually married to Domhnall O'Neill - supported by a primary source, but one recorded a century later. Hard to say??"
 16,Unknown O'Donnell-1,,ca 1320?,1353,Father of Gormlaith O'Donnell,,
-17,Aedh O'Neill,,1353,1353,"Wife of Gormlaith O'Donnell, father of Sadhbh and Affric O'Neill",,See above - possibly actually Domhnall O'Neill
+17,Aedh O'Neill,,1353,1353,"Husband of Gormlaith O'Donnell, father of Sadhbh and Affric O'Neill",,See above - possibly actually Domhnall O'Neill
 18,Mor O'Conor,1356,,1356,"Daughter of O'Conor, wife of O'Farrell",,
 19,Unknown O'Conor-1,,ca 1330?,1356,Father of Mor O'Conor,,
 20,Unknown O'Farrell-1,,1356,1356,Husband of Mor O'Conor,,
-21,d. Seoinin Burke,,1356,1356,"Daughter of Seoinin Burke, wife of Unknown O'Kelly-2, abudcted by Aedh mac Turlough O'Conor",,
+21,d. Seoinin Burke,,1356,1356,"Daughter of Seoinin Burke, wife of Donnchadh Carrach O'Kelly, abudcted by Aedh mac Turlough O'Conor",,
 22,Seoinin Burke,,ca 1330?,1356,Father of Seoinin Burke,,
-23,Unknown O'Kelly-2,,1356,1356,Husband of d. Seoinin Burke,,
+23,Donnchadh Carrach O'Kelly,,1356,1356,Husband of d. Seoinin Burke,,
 24,Aedh mac Turlough O'Conor,,1356,1356,Abducted d. Seoinin Burke,,
 25,d2. Turlough O'Conor,1360,,1360,"Daughter of Turlough O'Conor, wife of Ferghal O'Reilly",,
 26,Ferghal O'Reilly,,1360,1360,Husband of d2. Turlough O'Conor,,
 27,Dubog Maguire,1361,,1361,"Daughter of Aedh Maguire, wife of Cu-Connacht mac Philip MacMahon",,
 28,Aedh Maguire,,ca 1340?,1361,Father of Dubog Maguire,,
 29,Cu-Connacht mac Philip MacMahon,,1361,1361,Husband of Dubog Maguire,,
-30,d. O'Malley,1362,,[1359],"Daughter of O'Malley, wife of Donnell O'Dowda",,
-31,Unknown O'Malley-1,,ca 1340?,[1359],Father of d. O'Malley,,
-32,Donnell O'Dowda,,1362,[1359],Husband of d. O'Malley,,
+30,Fionnghuala O'Malley,1362,,[1359],"Daughter of Domhnall Ruadh O'Malley O'Malley, wife of Domhnall Cleirich O'Dowda; mother of Ruadhri O'Dowda",,
+31,Domhnall Ruadh O'Malley,,ca 1340?,[1359],Father of Fionnghuala O'Malley,,
+32,Domhnall Cleirach O'Dowda,1380,1362,[1359],Husband of Fionnghuala O'Malley; father of Ruadhri and Tadhg Riabhach,,
 33,Catherine/Lasarina/Catirfina O'Farrell,1363,,1363,"Daughter of O'Farrell, wife of O'Reilly",,
 34,Unknown O'Farrell-2,,ca 1340?,1363,Father of Catherine/Lasarina/Catirfina O'Farrell,,
-35,Unknown O'Reilly-1,,1363,1363,Husband of Catherine/Lasarina/Catirfina O'Farrell,,
+35,Unknown O'Reilly-1,,1363,1363,Husband of Catherine/Lasarina/Catirfina O'Farrell,,"Possibly Seaan, father of Eoghan (AiD 30)? But probably a generation too early, because Eoghan dies 1449"
 36,Margaret Burke,1364,,1364,"Daughter of Walter Burke, wife of Aedh mac Feidlimidh O'Conor",,
 37,Walter Burke,,ca 1340?,1364,Father of Margaret Burke,,
 38,Aedh mac Feidlimidh O'Conor,,1364,1364,Husband of Margaret Burke,,
@@ -45,7 +45,7 @@
 44,Brian MacTiernan,,1364,1364,Husband of Aiffric O'Reilly,,
 45,d. MacDonough,1365,,1365,"Daughter of MacDonough, wife of Mulrony O'Dowda",,
 46,Unknown MacDonough-1,,ca 1340?,1365,Father of d. MacDonough,,
-47,Mulroney O'Dowda,,1365,1365,Husband of d. MacDonough,,
+47,Mulroney O'Dowda,1362,,1365,Husband of d. MacDonough,,"See O'Donovan HF 358 - son of Brian O'Dowda (never lord himself) and Una, d. Felim O'Conor and gd. Cathal Crobhdherg"
 48,d. O'Reilly,,1365,1365,"Ex-fiancee of Somairle Dubh MacDonald, possible daughter of Brian O'Reilly?",,
 49,Unknown O'Reilly-2,,ca 1340?,1365,Father of d. O'Reilly,,Possibly = Brian O'Reilly (43)
 50,d. Brian mac Aedh MacMahon,,1365,1365,"Daughter of Brian mac Aedh MacMahon, wife of Somairle Dubh MacDonald",,
@@ -188,7 +188,7 @@
 187,Sadhbh MacMurrough,1411,,1411,"Daughter of MacMurrough, wife of MacGillapatrick",,
 188,Unknown MacMurrough-1,,ca 1390?,1411,Father of Sadhbh MacMurrough,,
 189,Unknown MacGillapatrick-1,,1411,1411,Husband of Sadhbh MacMurrough,,
-190,Benmumhan O'Conor,1411,,1411,"Daughter of Aedh O'Conor, wife of Murchadh mac Cormac MacDonough",,
+190,Benmumhan O'Conor,1411,,1411,"Daughter of Aedh O'Conor, wife of Murchadh mac Cormac MacDonough and Seaan Burke",,
 191,Aedh O'Conor,,ca 1390?,1411,Father of Benmumhan O'Conor,,
 192,Murchadh mac Cormac MacDonough,,1411,1411,Husband of Benmumhan O'Conor,,
 193,Caitilin O'Farrell,1411,,1411,"Daughter of Tomaltach O'Farrell, wife of Maelsechlainn Mor MacOwen",,
@@ -209,7 +209,7 @@
 208,Gilla-Tigernaigh MacGillamartin,,1415,1415,Husband of Beanmidhe O'Glennon,,
 209,Gormlaith O'Neill,1416,,1416,"Daughter of Brian Mor O'Neill, wife of John O'Donnell",,
 210,Brian Mor O'Neill,,ca 1390?,1416,Father of Gormlaith O'Neill,,
-211,John O'Donnell,,1416,1416,Husband of Gormlaith O'Neill,,
+211,John O'Donnell,1380,,1416,Husband of Gormlaith O'Neill,,Death in Egan
 212,Una O'Neill,1417,,1417,"Daughter of Donnell O'Neill, wife of Niall Oge O'Neill",,
 213,Donnell O'Neill,,ca 1390?,1417,Father of Una O'Neill,,
 214,Niall Oge O'Neill,,1417,1417,Husband of Una O'Neill,,
@@ -225,7 +225,7 @@
 224,Fergal MacDermot,,ca 1390?,1417,Father of Grainne MacDermot,,
 225,Unknown MacRannell Dubh-1,,1417,1417,Husband of Grainne MacDermot,,
 226,Lasarina O'Conor,1418,,1418,"Daughter of Cathal mac Aedh Breifneach, wife of Melaghlin mac Flaherty O'Rourke",,
-227,Cathal mac Aedh Breifneach,,ca 1390?,1418,Father of Lasarina O'Conor,,
+227,Cathal mac Aedh Breifneach,,ca 1390?,1418,Father of Lasarina O'Conor,combining with Cathal mac Aedh O'Conor (157),
 228,Melaghlin mac Flaherty O'Rourke,,1418,1418,Husband of Lasarina O'Conor,,
 229,Finnguala MacRannell,1418,,1418,"Daughter of MacRannell, wife of Richard mac Thomas O'Reilly",,
 230,Unknown MacRannell-3,,ca 1390?,1418,Father of Finnguala MacRannell,,
@@ -277,7 +277,7 @@
 276,Aine O'Rourke,1431,,1431,"Daughter of O'Rourke, wife of O'Farrell",,
 277,Unknown O'Farrell-5,,1431,1431,Husband of Aine O'Rourke,,
 278,Una O'Reilly,,1433,1433,"Daughter of John O'Reilly, wife of Mathgamain MacCabe",,
-279,John O'Reilly,,ca 1410?,1433,Father of Una O'Reilly,,
+279,John O'Reilly,,ca 1410?,1433,Father of Una O'Reilly,combining with Eogan O'Reilly (275),
 280,Mathgamain MacCabe,,1433,1433,Husband of Una O'Reilly,,
 281,d. O'Conor Faly-2,,1433,1433,"Daughter of O'Conor Faly, wife of O'Donnell",,
 282,Unknown O'Conor Faly-3,,ca 1410?,1433,Father of d. O'Conor Faly-2,,
@@ -293,7 +293,7 @@
 292,Brian MacDonough,,1436,1436,Husband of Una O'Conor Don,,
 293,Lasarfina MacDonough,1436,,1436,"Daughter of Conor MacDonough, wife of Cosnamach O'Dowda",,
 294,Conor MacDonough,,ca 1410?,1436,Father of Lasarfina MacDonough,,
-295,Cosnamach O'Dowda,,1436,1436,Husband of Lasarfina MacDonough,,
+295,Cosnamach O'Dowda,,1436,1436,Husband of Lasarfina MacDonough,,"Possibly son of Brian O'Dowda and brother of Maolruanaidh? He would need to have been born before 1354 - not impossible, especially if Lasarfina outlived him; could also be son of Muirchertach Cleirach (from line of Brian's brother Donnchadh Mor)"
 296,d. MacDonough-2,1439,,1439,"Daughter of Teige MacDonough, wife of Conor mac Donnell MacDonough",,
 297,Teige MacDonough,,ca 1410?,1439,Father of d. MacDonough-2,,
 298,Conor mac Donnell MacDonough,,1439,1439,Husband of d. MacDonough-2,,
@@ -318,3 +318,31 @@
 317,Mor Maguire,1449,,1449,Daughter of Aedh mac Philip Maguire,,
 318,Aedh mac Philip Maguire,,ca 1420?,1449,Father of Mor Maguire,,
 319,Art mac Eogan O'Neill,,1449,1449,Husband of Mor Maguire,,
+320,Seaan Burke,,ca 1380?,1406,Husband of Benmumhan O'Conor,,
+321,Eileog Mac Costello,,1417,,"Daughter of Mac Costello, wife of Ruadhri O'Dowda, mother of Maolruanaidh O'Dowda-2",,O'Donovan HF
+322,John Mac Costello,,ca 1390?,,Father of d. Mac Costello,,O'Donovan HF
+323,Ruadhri O'Dowda,1417,,,Son of Maolruanaidh O'Dowda-1 and Fionnuala O'Malley; husband of Eileog Mac Costello; father of Maolruanaidh O'Dowda-2,,O'Donovan HF
+324,Anabla Burke,,1417,,Daughter of Sir Redmund Burke; wife of Ruadhri O'Dowda,,O'Donovan HF
+325,Sir Redmond Burke,,ca 1390?,,Father of Anabla Burke,,O'Donovan HF
+326,d. Mac Wattin Barrett,,1447,,Daughter of Mac Wattin Barrett; wife of Maolruanaidh O'Dowda-2,,O'Donovan HF
+327,Unknown Mac Wattin Barrett-1,,ca 1420?,,Father of d. Mac Wattin Burke,,O'Donovan HF
+326,Maolruanaidh O'Dowda-2,1447,,,Son of Ruadhri O'Dowda and Eileog Mac Costello; husband of d. Mac Wattin Burke,,O'Donovan HF
+327,Eudoin O'Conor,,1432,,Daughter of Domhnall mac Muirchertach O'Conor [Donnell mac Murtough O'Conor - 177]; wife of Tadhg Riabhach mac Domhnall Cleirich O'Dowda,,O'Donovan HF
+328,Tadhg Riabhach O'Dowda,1432,,,Husband of Eudoin O'Conor and Margaret Burke; brother of Ruaidhri mac Domhnall Cleirich O'Dowda; son of Domhnall Cleirich O'Dowda,,
+329,Margaret Burke-2,,1432,,Daughter of William mac Redmund Burke; wife of Tadhg Riabhach O'Dowda,,
+330,William mac Redmond Burke,,ca 1410?,,Father of Margaret Burke-2,,
+331,Teamhair O'Muirgheasa,,1380,,Daughter of O'Muirgheasa; wife of Domhnall Cleirich O'Dowda,,
+332,Unknown O'Muirgheasa-1,,ca 1360?,,Father of Teamhair O'Muirgheasa,,
+333,Fionnghuala O'Conor,,1380,,Daughter of Manus mac Cathal O'Conor; wife of Domhnall Cleirich O'Dowda,,
+334,Manus mac Cathal O'Conor,,ca 1360?,,Father of Fionnghuala O'Conor,,
+335,d. O'Cathain,,1380,,"Daughter of O'Cathain, wife of Domhnall Cleirich O'Conor",,
+336,Unknown O'Cathain-1,,ca 1360?,,Father of d. O'Cathain,,
+337,Maebh O'Malley,,ca 1360?,,Daughter of Domhnall Ruadh O'Malley; wife of Aodh O'Dowda; sister of Fionnghuala O'Malley,,
+338,Aodh O'Dowda,,ca 1360?,,Husband of Maebh O'Malley; brother of Domhnall Cleirich; son of Brian O'Dowda and d. Robin Lawless,,
+339,d. Robin Lawless,,ca 1350?,,Daughter of Robin Lawless; wife of Brian O'Dowda; mother of Aodh O'Dowda,,
+340,Robin Lawless,,ca 1330?,,Father of d. Robin Lawless,,
+341,Brian O'Dowda,1354,,,"Husband of d. Robin Lawless, Barrdubh O'Conor, and Honora Barrett-1; father of Aodh and Domhnall Cleirich",,
+342,Barrdubh O'Conor,,ca 1350?,,Daughter of Domhnall O'Conor; wife of Brian O'Dowda; mother of Domhnall Cleirich,,
+343,Domhnall O'Conor,,ca 1330?,,Father of Barrdubh O'Conor,,
+344,Honora Barrett,,ca 1350?,,Daughter of Mac Wattin Barrett; wife of Brian O'Dowda,,
+345,Unknown Mac Wattin Barrett-2,,ca 1330?,,Father of Honora Barrett,,

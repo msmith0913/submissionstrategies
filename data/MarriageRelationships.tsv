@@ -1,0 +1,259 @@
+source	numidsource	marsource	type	target	numidtarget	martarget
+d. O'Dwyer-1	188	1	daughter	Unknown O'Dwyer-1	189	2
+d. O'Dwyer-1	188	1	spouse	Unknown MacNamara-1	190	3
+d. O'Daly-1	191	4	daughter	Unknown O'Daly-1	192	5
+d. O'Daly-1	191	4	spouse	Unknown MacNamara-2	193	6
+d. Turlough O'Conor-1	194	7	daughter	Turlough O'Conor	195	8
+d. Turlough O'Conor-1	194	7	spouse	Cathal Og O'Conor	196	9
+Una O'Conor	197	10	daughter	Turlough O'Conor	195	8
+Una O'Conor	197	10	spouse	Manus mac Cu-Connacht O'Reilly	198	11
+d. Turlough O'Conor-2	212	25	daughter	Turlough O'Conor	195	8
+d. Turlough O'Conor-2	212	25	spouse	Ferghal O'Reilly	213	26
+Grainne O'Kelly	199	12	daughter	Maoilsheachluinn O'Kelly	145	145
+Grainne O'Kelly	199	12	spouse	Turlough O'Conor	195	8
+Grainne O'Kelly	199	12	spouse	Tadhg O'Brien	201	14
+Gormlaith O'Donnell	202	15	daughter	Unknown O'Donnell-1	203	16
+Gormlaith O'Donnell	202	15	spouse	Aedh O'Neill	204	17
+Mor O'Conor	205	18	daughter	Unknown O'Conor-1	206	19
+Mor O'Conor	205	18	spouse	Unknown O'Farrell-1	207	20
+d. Seoinin Burke	208	21	daughter	Seoinin Burke	209	22
+d. Seoinin Burke	208	21	spouse	Donnchadh Carrach O'Kelly	210	23
+d. Seoinin Burke	208	21	abducted by	Aedh mac Turlough O'Conor	211	24
+Dubog Maguire	214	27	daughter	Aedh Maguire	215	28
+Dubog Maguire	214	27	spouse	Cu-Connacht mac Philip MacMahon	216	29
+Fionnghuala O'Malley	217	30	daughter	Domhnall Ruadh O'Malley	218	31
+Fionnghuala O'Malley	217	30	spouse	Domhnall Cleirach O'Dowda	219	32
+Catherine O'Farrell	220	33	daughter	Unknown O'Farrell-2	221	34
+Catherine O'Farrell	220	33	spouse	Unknown O'Reilly-1	222	35
+Margaret Burke	223	36	daughter	Walter Burke	224	37
+Margaret Burke	223	36	spouse	Aedh mac Feidlimidh O'Conor	225	38
+Derbail O'Donnell	226	39	daughter	Unknown O'Donnell-2	227	40
+Derbail O'Donnell	226	39	spouse	Aedh Ruadh Maguire	228	41
+Aiffric O'Reilly	229	42	daughter	Brian O'Reilly	230	43
+Aiffric O'Reilly	229	42	spouse	Brian MacTiernan	231	44
+d. MacDonough	232	45	daughter	Unknown MacDonough-1	233	46
+d. MacDonough	232	45	spouse	Mulroney O'Dowda	234	47
+d. O'Reilly-1	235	48	daughter	Unknown O'Reilly-2	236	49
+d. O'Reilly-1	235	48	ex-fiancee	Somairle Dubh MacDonald	239	52
+d. Brian mac Aedh MacMahon	237	50	daughter	Brian mac Aedh MacMahon	238	51
+d. Brian mac Aedh MacMahon	237	50	spouse	Somairle Dubh MacDonald	239	52
+Bevin Mageoghegan	240	53	daughter	Unknown Mageoghegan-1	241	54
+Bevin Mageoghegan	240	53	spouse	Unknown Sionnach-1	242	55
+Derbail MacDermot	243	56	daughter	Maelruanaidh MacDermot	244	57
+Derbail MacDermot	243	56	spouse	Ualgarg O'Rourke	245	58
+Bebinn O'Rourke	247	60	daughter	Ualgarg O'Rourke	245	58
+Bebinn O'Rourke	247	60	spouse	Tomaltagh MacDonough	247	60
+Finola O'Rourke	351	164	daughter	Ualgarg O'Rourke	247	60
+Finola O'Rourke	351	164	spouse	John More O'Hara	181	181
+Dubchablach O'Reilly	248	61	daughter	Philip O'Reilly	249	62
+Dubchablach O'Reilly	248	61	spouse	Philip Maguire	250	63
+d. Manus MacMahon	251	64	daughter	Manus MacMahon	252	65
+d. Manus MacMahon	251	64	spouse	Gillapatrick MacCawell	253	66
+Joanna Cam MacCarthy	254	67	daughter	Unknown MacCarthy-1	255	68
+Joanna Cam MacCarthy	254	67	spouse	Unknown MacNamara-3	256	69
+Barrduv O'Rourke	257	70	daughter	Unknown O'Rourke-1	258	71
+Barrduv O'Rourke	257	70	spouse	Donnell MacTiernan	259	72
+Sabia O'Conor	260	73	daughter	Cathal mac Domhnall O'Conor	261	74
+Sabia O'Conor	260	73	spouse	Flaherty O'Rourke	262	75
+Cablaigh Mor O'Conor	341	154	daughter	Cathal mac Domhnall O'Conor	261	74
+Cablaigh Mor O'Conor	341	154	consort	Niall O'Donnell	342	155
+Cablaigh Mor O'Conor	341	154	consort	Aedh O'Rourke	343	156
+Cablaigh Mor O'Conor	341	154	consort	Cathal mac Aedh O'Conor	344	157
+Mor O'Farrell	263	76	daughter	Unknown O'Farrell-3	264	77
+Mor O'Farrell	263	76	spouse	Diarmait MacRannell	265	78
+Dubchablach MacRannell	266	79	daughter	Unknown MacRannell-1	267	80
+Dubchablach MacRannell	266	79	spouse	Unknown O'Mulvey-1	268	81
+Bebinn O'Dunne	269	82	daughter	Donnell O'Dunne	270	83
+Bebinn O'Dunne	269	82	spouse	Unknown O'Dempsey-1	271	84
+Finnghuala O'Kelly	272	85	daughter	Unknown O'Kelly-3	273	86
+Finnghuala O'Kelly	272	85	spouse	Unknown Mac William Burke-1	274	87
+Aine MacNamara	275	88	daughter	Unknown MacNamara-4	276	89
+Aine MacNamara	275	88	spouse	Philip O'Kennedy	149	149
+Finola O'Kane	278	91	daughter	Cooey O'Kane	279	92
+Finola O'Kane	278	91	spouse	Turlough MacSweeny	280	93
+Margaret MacSweeny	369	182	daughter	Turlough MacSweeny	280	93
+Margaret MacSweeny	369	182	spouse	John mac Donnell O'Donnell	370	183
+Sabia Burke	281	94	daughter	Ulick Burke	282	95
+Sabia Burke	281	94	spouse	Unknown O'Conor-2	282	95
+Duvcovla O'Conor Faly	284	97	daughter	Unknown O'Conor Faly-1	285	98
+Duvcovla O'Conor Faly	284	97	spouse	Donnell mac Theobald O'Molloy	286	99
+Lasarina O'Duigennan	287	100	daughter	Farrell O'Duigennan	288	101
+Lasarina O'Duigennan	287	100	spouse	Unknown O'Meehin-1	289	102
+Dubchablach MacDermot	290	103	daughter	Aedh MacDermot	291	104
+Dubchablach MacDermot	290	103	spouse	Cathal Roe MacRannell	292	105
+Lasairfina O'Conor	293	106	daughter	Turlough O'Conor-2	294	107
+Lasairfina O'Conor	293	106	spouse	Unknown MacRannell Dubh-1	295	108
+Raghnailt MacBrady	296	109	daughter	Unknown MacBrady-1	297	110
+Raghnailt MacBrady	296	109	spouse	Unknown MacDarcy-1	298	111
+Aine MacBrady	299	112	daughter	Unknown MacBrady-1	297	110
+Aine MacBrady	299	112	spouse	Matthew mac Conor O'Owen	300	113
+More O'Madden	301	114	daughter	Murrough O'Madden	302	115
+More O'Madden	301	114	spouse	Richard Mac William Burke	303	116
+Joanna Cam Butler	304	117	daughter	James Butler	305	118
+Joanna Cam Butler	304	117	spouse	Teige O'Carroll	306	119
+d. O'Brien	307	120	daughter	Unknown O'Brien-1	308	121
+d. O'Brien	307	120	spouse	Unknown O'Kennedy-1	309	122
+Honora Burke	310	123	daughter	William Burke	311	124
+Honora Burke	310	123	spouse	Unknown O'Meagher-1	312	125
+Lucy O'Tully	313	126	daughter	Unknown O'Tully-1	314	127
+Lucy O'Tully	313	126	spouse	Maurice MacCraith	315	128
+Dervorgilla O'Conor	316	129	daughter	Cathal Og O'Conor	196	9
+Dervorgilla O'Conor	316	129	spouse	Unknown O'Conor Roe-1	317	130
+Beanmidhe MacMahon	318	131	daughter	Unknown MacMahon-1	319	132
+Beanmidhe MacMahon	318	131	spouse	Unknown O'Neill-1	320	133
+Aine MacDonough	321	134	daughter	Unknown MacDonough-2	322	135
+Aine MacDonough	321	134	spouse	Tiernan O'Rourke	186	186
+d. Mac William Burke	324	137	daughter	Unknown Mac William Burke-2	324	137
+d. Mac William Burke	324	137	spouse	Unknown O'Farrell-4	326	139
+Nualaith O'Farrell	327	140	daughter	Murchadh O'Farrell	123	123
+Nualaith O'Farrell	327	140	spouse	Thomas mac Cathal O'Farrell	329	142
+Sadhb O'Neill	330	143	daughter	Aedh O'Neill	204	17
+Sadhb O'Neill	330	143	spouse	Unknown Bisset-1	331	144
+Affric O'Neill	332	145	daughter	Aedh O'Neill	204	17
+Affric O'Neill	332	145	spouse	Henry Aimreidh O'Neill	333	146
+d. Butler	334	147	daughter	James Butler	305	118
+d. Butler	334	147	spouse	Gerald Fitzgerald	335	148
+Etain O'Flanagan	336	149	daughter	Jeffrey O'Flanagan	337	150
+Etain O'Flanagan	336	149	spouse	William MacBrannan	338	151
+Edain O'Conor	339	152	daughter	Cathal Og O'Conor	196	9
+Edain O'Conor	339	152	spouse	Brian mac Mail-Shechlainn O'Kelly	340	153
+Una O'Conor-2	345	158	daughter	Tadhg mac Manus O'Conor	346	159
+Una O'Conor-2	345	158	spouse	Aedh Maguire-2	347	160
+Mary O'Kane	348	161	daughter	Unknown O'Kane-1	349	162
+Mary O'Kane	348	161	spouse	Unknown O'Doherty-1	350	163
+d. Brian O'Farrell	353	166	daughter	Brian O'Farrell	354	167
+d. Brian O'Farrell	353	166	spouse	Unknown Sionnach-2	355	168
+Finnghuala O'Farrell	356	169	daughter	Brian O'Farrell	354	167
+Finnghuala O'Farrell	356	169	spouse	Unknown MacSweeny-1	357	170
+Finnghuala O'Conor	358	171	daughter	Turlough O'Conor-2	294	107
+Finnghuala O'Conor	358	171	spouse	Mail-Shechlainn O'Kelly	359	172
+d. O'Conor Faly	360	173	daughter	Unknown O'Conor Faly-2	68	68
+d. O'Conor Faly	360	173	spouse	Gillapatrick O'More	136	136
+Nualaith O'Conor	363	176	daughter	Donnell mac Murtough O'Conor	173	173
+Nualaith O'Conor	363	176	spouse	Farrell mac Conor MacDonough	365	178
+d. Donnell O'Brien	366	179	daughter	Donnell O'Brien	367	180
+d. Donnell O'Brien	366	179	spouse	Philip mac Mahon O'Kennedy Don	368	181
+Sabia O'Brien	371	184	daughter	Conor O'Brien	372	185
+Sabia O'Brien	371	184	spouse	Walter Burke-2	373	186
+Sadhbh MacMurrough	374	187	daughter	Art Og MacMurrough	67	67
+Sadhbh MacMurrough	374	187	spouse	Finghin MacGillapatrick	72	72
+Benmumhan O'Conor	377	190	daughter	Aedh O'Conor	378	191
+Benmumhan O'Conor	377	190	spouse	Murchadh mac Cormac MacDonough	379	192
+Caitlin O'Farrell	380	193	daughter	Tomaltach O'Farrell	381	194
+Caitlin O'Farrell	380	193	spouse	Maelsechlainn Mor MacOwen	382	195
+Joan Fitzgerald	383	196	daughter	Gerald Fitzgerald	335	148
+Joan Fitzgerald	383	196	spouse	Tadhg MacCarthy Mor	44	44
+Sabia O'Rourke	385	198	daughter	Tiernan O'Rourke	186	186
+Sabia O'Rourke	385	198	spouse	Edmund mac Thomas O'Farrell	386	199
+Catherine MacDonough	387	200	daughter	Maelsechlain mac Maurice MacDonough	388	201
+Catherine MacDonough	387	200	spouse	Unknown MacFirbisigh-1	389	202
+Bebinn MacDonough	390	203	daughter	Ruaidhri mac Tomaltach MacDonough	391	204
+Bebinn MacDonough	390	203	spouse	Owen mac Donnell O'Conor	392	205
+Beanmidhe O'Glennon	393	206	daughter	Unknown O'Glennon-1	394	207
+Beanmidhe O'Glennon	393	206	spouse	Gilla-Tigernaigh MacGillamartin	395	208
+Gormlaith O'Neill	396	209	daughter	Brian Mor O'Neill	397	210
+Gormlaith O'Neill	396	209	spouse	John O'Donnell	398	211
+Una O'Neill	399	212	daughter	Donnell O'Neill	400	213
+Una O'Neill	399	212	spouse	Niall Og O'Neill	46	46
+Catirfina O'Rourke	402	215	daughter	Cathal O'Rourke	403	216
+Catirfina O'Rourke	402	215	spouse	Turlough MacDonnell	404	217
+Ragnailt O'Birn	405	218	daughter	Donnchadh O'Birn	406	219
+Ragnailt O'Birn	405	218	spouse	Diarmait MacDermot	407	220
+Ragnailt O'Birn	405	218	spouse	William mac Walter Burke	408	221
+Ragnailt O'Birn	405	218	spouse	Cumscrach MacRannell	409	222
+Grainne MacDermot	410	223	daughter	Fergal MacDermot	411	224
+Grainne MacDermot	410	223	spouse	Unknown MacRannell Dubh-2	412	225
+Grainne MacDermot	410	223	spouse	Unknown O'Conor Roe-1	317	130
+Lasarina O'Conor	413	226	daughter	Cathal mac Aedh O'Conor	344	157
+Lasarina O'Conor	413	226	spouse	Melaghlin mac Flaherty O'Rourke	415	228
+Finnguala MacRannell	416	229	daughter	Unknown MacRannell-2	417	230
+Finnguala MacRannell	416	229	spouse	Richard mac Thomas O'Reily	418	231
+Lasarfina O'Hanley	419	232	daughter	Aedh O'Hanley	180	180
+Lasarfina O'Hanley	419	232	spouse	Murchadh mac Tomas O'Birn	421	234
+d. O'Broin	422	235	daughter	Unknown O'Broin-1	423	236
+d. O'Broin	422	235	spouse	Donnell Finn MacHerbert	424	237
+Anabla MacJordan d'Exeter	425	238	daughter	Unknown MacJordan d'Exeter-1	426	239
+Anabla MacJordan d'Exeter	425	238	spouse	Uilliam mac Maelsechlainn O'Kelly	427	240
+Mary Burke	428	241	daughter	Unknown Burke-1	429	242
+Mary Burke	428	241	spouse	James Fitzgerald	430	243
+Mor O'Durnin	431	244	daughter	Unknown O'Durnin-1	432	245
+Mor O'Durnin	431	244	spouse	Tomaltach O'Birn	433	246
+Mor O'Brien	434	247	daughter	Brian O'Brien	435	248
+Mor O'Brien	434	247	spouse	Walter Burke-3	436	249
+Mor O'Brien	434	247	spouse	Tadhg O'Carroll-2	437	250
+d. Walter Burke	438	251	daughter	Walter Burke-3	436	249
+d. Walter Burke	438	251	spouse	Conor O'Brien-2	439	252
+Ragnailt Dub O'Brien	440	253	daughter	Conor O'Brien-2	439	252
+Ragnailt Dub O'Brien	440	253	spouse	Unknown O'Flaherty-1	441	254
+Ben Mide O'Conor	442	255	daughter	Donnell mac Murtough O'Conor	173	173
+Ben Mide O'Conor	442	255	spouse	Thomas Barrett	443	256
+Gormlaith O'Conor	444	257	daughter	Donnell O'Conor	445	258
+Gormlaith O'Conor	444	257	spouse	Tiernan O'Rourke	186	186
+Una Maguire	446	259	daughter	Aedh Maguire-2	347	160
+Una Maguire	446	259	spouse	Tadhg O'Rourke	447	260
+Aine O'Birn	448	261	daughter	Cormac O'Birn	449	262
+Aine O'Birn	448	261	spouse	Geoffrey MacRannell	450	263
+Joan MacCawell	451	264	daughter	Unknown MacCawell-1	452	265
+Joan MacCawell	451	264	spouse	Maurice Maguire	453	266
+Catherine MacMahon	454	267	daughter	Ardghal MacMahon	455	268
+Catherine MacMahon	454	267	spouse	Eogan mac Niall Og O'Neill	456	269
+Grainne O'Neill	457	270	daughter	Niall Mor O'Neill	140	140
+Grainne O'Neill	457	270	spouse	Turlough an Fhiona O'Donnell	459	272
+Barrdubh O'Rourke	460	273	daughter	Unknown O'Rourke-2	461	274
+Barrdubh O'Rourke	460	273	spouse	Eogan O'Reilly	462	275
+Aine O'Rourke	463	276	daughter	Unknown O'Rourke-2	461	274
+Aine O'Rourke	463	276	spouse	Unknown O'Farrell-5	464	277
+Una O'Reilly	465	278	daughter	Eogan O'Reilly	462	275
+Una O'Reilly	465	278	spouse	Mathgamain MacCabe	467	280
+d. O'Conor Faly-2	468	281	daughter	Unknown O'Conor Faly-3	469	282
+d. O'Conor Faly-2	468	281	spouse	Unknown O'Donnell-3	470	283
+Margaret O'Carroll	471	284	daughter	Unknown O'Carroll-1	472	285
+Margaret O'Carroll	471	284	spouse	Calvagh O'Conor Faly	473	286
+Ben Muman MacDermot	474	287	daughter	Conor MacDermot	475	288
+Ben Muman MacDermot	474	287	spouse	Sean MacDonough	476	289
+Una O'Conor Don	477	290	daughter	Unknown O'Conor Don-1	43	43
+Una O'Conor Don	477	290	spouse	Brian MacDonough	479	292
+Lasarfina MacDonough	480	293	daughter	Conor MacDonough	481	294
+Lasarfina MacDonough	480	293	spouse	Cosnamach O'Dowda	482	295
+d. MacDonough-2	483	296	daughter	Teige MacDonough	484	297
+d. MacDonough-2	483	296	spouse	Conor mac Donnell MacDonough	485	298
+d. MacOwen	486	299	daughter	Unknown MacOwen	487	300
+d. MacOwen	486	299	spouse	Unknown Maguire-1	488	301
+Mor Magauran	489	302	daughter	Aedh Magauran	490	303
+Mor Magauran	489	302	spouse	Mac Brian MacManus	491	304
+Finola O'Doherty	492	305	daughter	Unknown O'Doherty-2	493	306
+Finola O'Doherty	492	305	spouse	Unknown O'Donnell-4	494	307
+Catherine Maguire	495	308	daughter	Donn mac Cu-Connacht Maguire	496	309
+Catherine Maguire	495	308	spouse	MacManus Maguire	497	310
+Dubchablach Maguire	498	311	daughter	Thomas Maguire	499	312
+Dubchablach Maguire	498	311	spouse	Eogan MacCawell	500	313
+Finola O'Conor Faly	501	314	daughter	Calvagh O'Conor Faly	473	286
+Finola O'Conor Faly	501	314	spouse	Unknown O'Donnell-5	502	315
+Finola O'Conor Faly	501	314	spouse	Aedh Buidhe O'Neill	503	316
+Mor Maguire	504	317	daughter	Aedh mac Philip Maguire	505	318
+Mor Maguire	504	317	spouse	Art mac Eogan O'Neill	506	319
+Benmumhan O'Conor	377	190	spouse	Seaan Burke	507	320
+Eileog Mac Costello	508	321	daughter	John Mac Costello	509	322
+Eileog Mac Costello	508	321	spouse	Ruadhri O'Dowda	176	176
+Anabla Burke	511	324	daughter	Sir Redmond Burke	512	325
+Anabla Burke	511	324	spouse	Ruadhri O'Dowda	176	176
+d. Mac Wattin Barrett	511	324	daughter	Unknown Mac Wattin Barrett-1	512	325
+d. Mac Wattin Barrett	511	324	spouse	Maolruanaidh O'Dowda-2	513	326
+Eudoin O'Conor	514	327	daughter	Donnell mac Murtough O'Conor	173	173
+Eudoin O'Conor	514	327	spouse	Tadhg Riabhach O'Dowda	515	328
+Margaret Burke-2	516	329	daughter	William mac Redmond Burke	517	330
+Margaret Burke-2	516	329	spouse	Tadhg Riabhach O'Dowda	517	330
+Teamhair O'Muirgheasa	518	331	daughter	Unknown O'Muirgheasa-1	519	332
+Teamhair O'Muirgheasa	518	331	spouse	Domhnall Cleirach O'Dowda	219	32
+Fionnghuala O'Conor	520	333	daughter	Manus mac Cathal O'Conor	521	334
+Fionnghuala O'Conor	220	33	spouse	Domhnall Cleirach O'Dowda	219	32
+d. O'Cathain	522	335	daughter	Unknown O'Cathain-1	523	336
+d. O'Cathain	522	335	spouse	Domhnall Cleirach O'Dowda	219	32
+Maebh O'Malley	524	337	daughter	Domhnall Ruadh O'Malley	218	31
+Maebh O'Malley	524	337	spouse	Aodh O'Dowda	525	338
+d. Robin Lawless	526	339	daughter	Robin Lawless	527	340
+d. Robin Lawless	526	339	spouse	Brian O'Dowda	528	341
+Barrdubh O'Conor	529	342	daughter	Domhnall O'Conor	530	343
+Barrdubh O'Conor	529	342	spouse	Brian O'Dowda	528	341
+Honora Barrett	531	344	daughter	Unknown Mac Wattin Barrtt-2	532	345
+Honora Barrett	531	344	spouse	Brian O'Dowda	528	341

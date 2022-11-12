@@ -16,58 +16,58 @@
     <p>The notarial instruments produced in 1395 form the core of the project. However, other records - including annals entries, chancery records, property deeds, and more - provide crucial context and help to flesh out the rich, polyvalent social networks of fourteenth- and fifteenth-century Ireland, revealing its complexity and dynamism. Individual references are linked on each page. Here you'll find bibliographic information, descriptions, and links (where available) to the editions and projects cited.</p>
     <p>Jump to:
       <ul>
-        <li><a target="_self" href="/instruments.php#Instruments">Notarial Instruments</a></li>
-        <li><a target="_self" href="/instruments.php#Annals">CELT Texts</a></li>
-        <li><a target="_self" href="/instruments.php#Databases">Other Databases and Digital Resources</a></li>
-        <li><a target="_self" href="/instruments.php#Published">Print Works</a></li>
-        <li><a target="_self" href="/instruments.php#Secondary">Secondary Works</a></li>
+        <li><a target="_self" href="/instruments/#Instruments">Notarial Instruments</a></li>
+        <li><a target="_self" href="/instruments/#Annals">CELT Texts</a></li>
+        <li><a target="_self" href="/instruments/#Databases">Other Databases and Digital Resources</a></li>
+        <li><a target="_self" href="/instruments/#Published">Print Works</a></li>
+        <li><a target="_self" href="/instruments/#Secondary">Secondary Works</a></li>
       </ul>
     <h1 id="Instruments">Notarial Instruments</h1>
     <p>These pages contain the text of the notarial instruments, letters, and other sources related to the submissions, as edited and transcribed by Edmund Curtis.</p>
     <p>Transcribed and translated by Edmund Curtis in <i>Richard II in Ireland, 1394-5, and Submissions of the Irish Chiefs</i> (Oxford: Clarendon Press, 1927). This work is now in the public domain. The work has been digitized by the <a href="https://nla.gov.au/nla.obj-2858308135/view?partId=nla.obj-2858362102#page/n0/mode/1up">National Library of Australia</a>.</p>
     <ul>
-      <li><a href="/instruments/Instrument1.php">Instrument 1</a></li>
-      <li><a href="/instruments/Instrument2.php">Instrument 2</a></li>
-      <li><a href="/instruments/Instrument3.php">Instrument 3</a></li>
-      <li><a href="/instruments/Instrument4.php">Instrument 4</a></li>
-      <li><a href="/instruments/Instrument5.php">Instrument 5</a></li>
-      <li><a href="/instruments/Instrument6.php">Instrument 6</a></li>
-      <li><a href="/instruments/Instrument7.php">Instrument 7</a></li>
-      <li><a href="/instruments/Instrument8.php">Instrument 8</a></li>
-      <li><a href="/instruments/Instrument9.php">Instrument 9</a></li>
-      <li><a href="/instruments/Instrument10.php">Instrument 10</a></li>
-      <li><a href="/instruments/Instrument11.php">Instrument 11</a></li>
-      <li><a href="/instruments/Instrument12.php">Instrument 12</a></li>
-      <li><a href="/instruments/Instrument13.php">Instrument 13</a></li>
-      <li><a href="/instruments/Instrument14.php">Instrument 14</a></li>
-      <li><a href="/instruments/Instrument15.php">Instrument 15</a></li>
-      <li><a href="/instruments/Instrument16.php">Instrument 16</a></li>
-      <li><a href="/instruments/Instrument17.php">Instrument 17</a></li>
-      <li><a href="/instruments/Instrument18.php">Instrument 18</a></li>
-      <li><a href="/instruments/Instrument19.php">Instrument 19</a></li>
-      <li><a href="/instruments/Instrument20.php">Instrument 20</a></li>
-      <li><a href="/instruments/Instrument21.php">Instrument 21</a></li>
-      <li><a href="/instruments/Instrument22.php">Instrument 22</a></li>
-      <li><a href="/instruments/Instrument23.php">Instrument 23</a></li>
-      <li><a href="/instruments/Instrument24.php">Instrument 24</a></li>
-      <li><a href="/instruments/Instrument25.php">Instrument 25</a></li>
-      <li><a href="/instruments/Instrument26.php">Instrument 26</a></li>
-      <li><a href="/instruments/Instrument27.php">Instrument 27</a></li>
-      <li><a href="/instruments/Instrument28.php">Instrument 28</a></li>
-      <li><a href="/instruments/Instrument29.php">Instrument 29</a></li>
-      <li><a href="/instruments/Instrument30.php">Instrument 30</a></li>
-      <li><a href="/instruments/Instrument31.php">Instrument 31</a></li>
-      <li><a href="/instruments/Instrument32.php">Instrument 32</a></li>
-      <li><a href="/instruments/Instrument33.php">Instrument 33</a></li>
-      <li><a href="/instruments/Instrument34.php">Instrument 34</a></li>
-      <li><a href="/instruments/Instrument35.php">Instrument 35</a></li>
-      <li><a href="/instruments/Instrument36.php">Instrument 36</a></li>
-      <li><a href="/instruments/Instrument37.php">Instrument 37</a></li>
-      <li><a href="/instruments/Instrument38.php">Instrument 38</a></li>
+      <li><a href="/instruments/Instrument1/">Instrument 1</a></li>
+      <li><a href="/instruments/Instrument2/">Instrument 2</a></li>
+      <li><a href="/instruments/Instrument3/">Instrument 3</a></li>
+      <li><a href="/instruments/Instrument4/">Instrument 4</a></li>
+      <li><a href="/instruments/Instrument5/">Instrument 5</a></li>
+      <li><a href="/instruments/Instrument6/">Instrument 6</a></li>
+      <li><a href="/instruments/Instrument7/">Instrument 7</a></li>
+      <li><a href="/instruments/Instrument8/">Instrument 8</a></li>
+      <li><a href="/instruments/Instrument9/">Instrument 9</a></li>
+      <li><a href="/instruments/Instrument10/">Instrument 10</a></li>
+      <li><a href="/instruments/Instrument11/">Instrument 11</a></li>
+      <li><a href="/instruments/Instrument12/">Instrument 12</a></li>
+      <li><a href="/instruments/Instrument13/">Instrument 13</a></li>
+      <li><a href="/instruments/Instrument14/">Instrument 14</a></li>
+      <li><a href="/instruments/Instrument15/">Instrument 15</a></li>
+      <li><a href="/instruments/Instrument16/">Instrument 16</a></li>
+      <li><a href="/instruments/Instrument17/">Instrument 17</a></li>
+      <li><a href="/instruments/Instrument18/">Instrument 18</a></li>
+      <li><a href="/instruments/Instrument19/">Instrument 19</a></li>
+      <li><a href="/instruments/Instrument20/">Instrument 20</a></li>
+      <li><a href="/instruments/Instrument21/">Instrument 21</a></li>
+      <li><a href="/instruments/Instrument22/">Instrument 22</a></li>
+      <li><a href="/instruments/Instrument23/">Instrument 23</a></li>
+      <li><a href="/instruments/Instrument24/">Instrument 24</a></li>
+      <li><a href="/instruments/Instrument25/">Instrument 25</a></li>
+      <li><a href="/instruments/Instrument26/">Instrument 26</a></li>
+      <li><a href="/instruments/Instrument27/">Instrument 27</a></li>
+      <li><a href="/instruments/Instrument28/">Instrument 28</a></li>
+      <li><a href="/instruments/Instrument29/">Instrument 29</a></li>
+      <li><a href="/instruments/Instrument30/">Instrument 30</a></li>
+      <li><a href="/instruments/Instrument31/">Instrument 31</a></li>
+      <li><a href="/instruments/Instrument32/">Instrument 32</a></li>
+      <li><a href="/instruments/Instrument33/">Instrument 33</a></li>
+      <li><a href="/instruments/Instrument34/">Instrument 34</a></li>
+      <li><a href="/instruments/Instrument35/">Instrument 35</a></li>
+      <li><a href="/instruments/Instrument36/">Instrument 36</a></li>
+      <li><a href="/instruments/Instrument37/">Instrument 37</a></li>
+      <li><a href="/instruments/Instrument38/">Instrument 38</a></li>
       </ul>
       <p>In addition, Myles V. Roman published a further notarial instrument that, although it did not make it back to England with the bundle of documents that Curtis edited, nevertheless documented a genuine submission. (Myles V. Roman, "Some Mediaeval Documents," <i>Journal of the Royal Society of Antiquaries of Ireland</i>, 7, no. 2 (1937): 229-241.)
         <ul>
-          <li><a href="/instruments/Instrument39.php">Instrument 39</a></li>
+          <li><a href="/instruments/Instrument39/">Instrument 39</a></li>
         </ul>
     <h1 id="Annals">CELT Texts</h1>
     <p>Many of the surviving annals were edited by scholars like John O'Donovan. Those editions have been further edited and prepared for the web by the <a href="https://celt.ucc.ie">Corpus of Electronic Literature (CELT)</a> at University College Cork. Here I've provided bibliographic information for both the printe and online editions.</p>

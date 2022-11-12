@@ -10,6 +10,7 @@
    crossorigin=""></script>
 	 <link rel="stylesheet" href="https://submissionstrategies.com/css/L.Control.Layers.Tree.css"/>
 	 <script src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier-Leaflet/0.2.6/oms.min.js"></script>
+	 <script type="module" src="https://cdn.jsdelivr.net/npm/palladio-webcomponents@0.5/palladio-map-component.js"></script>
 	<style>
 		#map {
 			position: relative;
@@ -73,6 +74,7 @@
 <h3>About the layers:</h3>
 <p>The People and Places layers show all individuals and locations named in or inferred from the text. Click on each point or icon to see more information, including a link to the full record.</p>
 <p>The Submissions layers show each submission event, as recorded in notarial instruments. Each Submission layer includes the individuals named, their place of origin, the site of the submission, and color-coded lines indicating the role of each person in the submission: authorities in purple, submitting parties in orange, interpreters in green, and witnesses in gold.</p>
+<h4>The map is currently being revised, so not all layers are functional. Scroll down to see a Palladio visualization of the spatial network in the meantime, and visit the <a href="people">People</a> and <a href="places">Places</a> pages for an additional means of accessing the authority files.</h4>
 	<div style="margin: auto" id = "map"></div>
 	<script>
 		var map = L.map('map', {
@@ -2234,6 +2236,17 @@ var submissionsTree = {
 L.control.layers.tree(null, submissionsTree).addTo(map);
 
 	</script>
+	<br/>
+	<hr>
+	<br/>
+	<div style="margin: auto" id = "map">
+	<palladio-map
+  height="600px" width="900px"
+  zoom-to-fit
+  mapbox-token="pk.eyJ1IjoibXNtaXRoMTk5MCIsImEiOiJjazZmYXBycXYwYW4xM21scmh5enNpY3Z2In0.mH4tHUURPnU0NVrEhfY65w"
+  project-url="data/map.json">
+</palladio-map>
+</div>
 	<footer>
 		<?php include "./footer.html" ?>
 </footer>
