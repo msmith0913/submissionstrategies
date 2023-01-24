@@ -347,7 +347,7 @@
 			fillColor: '#f03',
 			fillOpacity: 0.5,
 			radius: 30
-		}).bindPopup('<strong>Name: John Malachy</strong><br/>Role: Interpreter<br/>Position: Chaplain<br/>Location: Dublin diocese<br/><a href="/people/Malachy.html">View resources</a>');
+		}).bindPopup('<strong>Name: John Malachy</strong><br/>Role: Interpreter<br/>Position: Chaplain<br/>Location: Christ Church, Dublin<br/><a href="/people/Malachy.html">View resources</a>');
 		var PeterAbpCashel = L.marker([52.52018726099023, -7.890430744550451], {
 			color: 'red',
 			fillColor: '#f03',
@@ -408,12 +408,6 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: John Holland</strong><br/>Role: Witness<br/>Position: Earl of Huntingdon<br/>Location: Berkhamsted Castle<br/><a href="/people/Holland.php">View resources</a>');
-		var JohnStanley = L.marker([53.57605516263993, -2.8180305756709085], {
-			color: 'red',
-			fillColor: '#f03',
-			fillOpacity: 0.5,
-			radius: 30
-		}).bindPopup('<strong>Name: John Stanley</strong><br/>Role: Authority<br/><a href="/people/Stanley.php">View resources</a>');
 		var WilliamBeg = L.marker([52.590900115704486, -6.500068251353481], {
 			color: 'red',
 			fillColor: '#f03',
@@ -480,6 +474,7 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Turloch O&apos;Conor Don</strong><br/>Role:Submitting party<br/>Position: Captain of his nation<br/>Location: Ballintober Castle<br/><a href="OConorDon.php">View resources</a>');
+// Need to double-check details of succession dispute - Ruadh or Donn?
 		var TadhgMacCarthyMor = L.marker([51.94903099242467, -10.258605292800087], {
 			color: 'red',
 			fillColor: '#f03',
@@ -540,6 +535,7 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Thomas MacShane FitzMaurice</strong><br/>Role: Submitting party<br/>Location: Glin Castle<br/><a href="/people/FitzMaurice.php">View resources</a>');
+// Double-check this ID
 		var WilliamBarrett = L.marker([54.120883056109335, -9.142255900242674], {
 			color: 'red',
 			fillColor: '#f03',
@@ -582,7 +578,12 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Gerald O&apos;Byrne</strong><br/>Role: Submitting party<br/>Role: the O&apos;Byrne<br/>Location: Newcastle Middle, Co. Wicklow<br/><a href="/people/OByrne.php">View resources</a>');
-		// <strong>Name: Donal O&apos;Nolan</strong><br/>Role: Submitting party<br/>Position: Captain of his nation<br/>[N/A<br/><a href="/people/ONolan.html">View resources</a>');
+		var DonalONolan = L.marker([52.81116230808195, -6.774609319527459], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: Donal O&apos;Nolan</strong><br/>Role: Submitting party<br/>Position: Captain of his nation<br/>[N/A<br/><a href="/people/ONolan.html">View resources</a>');
 		var EdmundVale = L.marker([53.34298855012456, -6.300094260031192], {
 			color: 'red',
 			fillColor: '#f03',
@@ -619,8 +620,18 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Murchadh O&apos;Conor Faly</strong><br/>Role: Submitting party<br/>Position: Captain of his nation<br/>Location: Rathangan<br/><a href="OConorFaly.php">View resources</a>');
-		// <strong>Name: David Mor MacManus</strong><br/>Role: Submitting party<br/>[N/A]<br/><a href="www.example.org">View resources</a>');
-		// <strong>Name: E. MacGerailt</strong><br/>Role: Submitting party<br/>[N/A]<br/><a href="www.example.org">View resources</a>');
+		var DavidMacManus = L.marker([52.51910142618689, -6.255631011397043], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: David Mor MacManus</strong><br/>Role: Submitting party<br/>Location: Castle Morcho (Morriscastle)<br/><a href="MacManus.php">View resources</a>');
+		var EMacGerailt = L.marker([52.51910142618689, -6.255631011397043], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: E. MacGerailt</strong><br/>Role: Submitting party<br/>Location: Near Morriscastle<br/><a href="MacGerailt.php">View resources</a>');
 		var GeoffreyOBrenan = L.marker([52.80625387806498, -7.202831361169027], {
 			color: 'red',
 			fillColor: '#f03',
@@ -633,15 +644,30 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Finghin MacGillapatrick</strong><br/>Role: Submitting party<br/>Location: Aghaboe<br/><a href="/people/MacGillapatrick.php">View resources</a>');
-		// <strong>Name: Henry Talon</strong><br/>Role: Submitting party<br/>[N/A<br/><a href="www.example.org">View resources</a>');
+		var HenryTalon = L.marker([52.752326812047905, -6.911006646111915], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: Henry Talon</strong><br/>Role: Submitting party<br/>Location: Nurney<br/><a href="Talon.php">View resources</a>');
 		var ThomasCarraghKavanagh = L.marker([52.590900115704486, -6.500068251353481], {
 			color: 'red',
 			fillColor: '#f03',
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Thomas Carragh Kavanagh</strong><br/>Role: Submitting party<br/>Location: Ferns Castle<br/><a href="/people/MacMurrough.php">View resources</a>');
-		// <strong>Name: Shane O&apos;Nolan</strong><br/>Role: Submitting party<br/>[N/A]<br/><a href="www.example.org">View resources</a>');
-		// <strong>Name: Guy Lenfaunt</strong><br/>Role: Interpreter<br/>[N/A]<br/><a href="www.example.org">View resources</a>');
+		var ShaneONolan = L.marker([52.81116230808195, -6.774609319527459], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: Shane O&apos;Nolan</strong><br/>Role: Submitting party<br/>Location: Forth O&apos;Nolan<br/><a href="/people/ONolan.php">View resources</a>');
+		var GuyLenfaunt = L.marker([53.1406068022979, -6.709805655994937], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: Guy Lenfaunt</strong><br/>Role: Interpreter<br/>Location: Carnalway<br/><a href="/people/Lenfaunt.php">View resources</a>');
 		var LeynaghFerssonOConor = L.marker([53.21965782033275, -7.0021621740278945], {
 			color: 'red',
 			fillColor: '#f03',
@@ -781,7 +807,12 @@
 			fillOpacity: 0.5,
 			radius: 30
 		}).bindPopup('<strong>Name: Thomas O&apos;Kennedy Don</strong><br/>Role: Submitting party<br/>Location: Nenagh Castle<br/><a href="/people/OKennedyDon.php">View resources</a>');
-		// <strong>Name: Gerald Tallon</strong><br/>Role: Interpreter<br/>[N/A<br/><a href="www.example.org">View resources</a>');
+		var GeraldTallon = L.marker([52.752326812047905, -6.911006646111915], {
+			color: 'red',
+			fillColor: '#f03',
+			fillOpacity: 0.5,
+			radius: 30
+		}).bindPopup('<strong>Name: Gerald Tallon</strong><br/>Role: Interpreter<br/>Location: Nurney<br/><a href="/people/Talon.php">View resources</a>');
 		var TheobaldFitzWalter = L.marker([52.71213203579604, -8.503683679502876], {
 			color: 'red',
 			fillColor: '#f03',

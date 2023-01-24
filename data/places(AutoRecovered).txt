@@ -59,21 +59,21 @@ Submission data	58	Richard Scrope		"52.408720821933144, -1.507126275731839"	Cove
 Submission data	59	William Arundel		"51.38989748942007, 0.5014839976535792"	Rochester Castle	Seat of authority	Castle	Very certain	
 Submission data	60	John Melton		"53.23445090005561, -0.5359512293532843"	Lincoln Cathedral	Residence	Diocese	Very certain	
 Submission data	61	Gerald O'Byrne		"53.07344505519419, -6.072130490017539"	Newcastle Middle	Locus of authority	Castle	Very certain	
-Submission data	62	Donal O'Nolan							
-Submission data	63	Edmund Vale		"53.34298855012456, -6.300094260031192"	"Hospitaller House, Kilmainham"	Seat of authority	Religious house		
+Submission data	62	Donal O'Nolan		"52.81116230808195, -6.774609319527459"	Forth O'Nolan	Seat of authority	Castle	Moderately certain	
+Submission data	63	Edmund Vale		"53.34298855012456, -6.300094260031192"	"Hospitaller House, Kilmainham"	Seat of authority	Religious house	Moderately certain	
 Submission data	64	Malachy O'More							
 Submission data	65	Lowyoge O'More							
 Submission data	66	Shane O'More							
 Submission data	67	Art Og MacMurrough		"52.590900115704486, -6.500068251353481"	Ferns Castle	Residence	Castle	Moderately certain	
 Submission data	68	Murchadh O'Conor Faly		"53.21965782033275, -7.0021621740278945"	Rathangan	Residence	Castle	Moderately certain	
-Submission data	69	David Mor MacManus							
-Submission data	70	E. MacGerailt							
+Submission data	69	David Mor MacManus		"52.51910142618689, -6.255631011397043"	Morriscastle	Seat of authority	Castle	Moderately certain	
+Submission data	70	E. MacGerailt		"52.51910142618689, -6.255631011397043"	Morriscastle	Residence	Town	Very uncertain	
 Submission data	71	Geoffrey O'Brenan		"52.80625387806498, -7.202831361169027"	Castlecomer	Locus of authority	Castle	Very uncertain	
 Submission data	72	Finghin MacGillapatrick		"52.92378377374355, -7.513021134328597"	Aghaboe	Residence	Castle	Very certain	
-Submission data	73	Henry Talon							
+Submission data	73	Henry Talon		"52.752326812047905, -6.911006646111915"	Nurney	Residence	Town	Moderately uncertain	
 Submission data	74	Thomas Carragh Kavanagh MacMurrough		"52.590900115704486, -6.500068251353481"	Ferns Castle	Residence	Castle	Moderately certain	
-Submission data	75	Shane O'Nolan							
-Submission data	76	Guy Lenfaunt							
+Submission data	75	Shane O'Nolan		"52.81116230808195, -6.774609319527459"	Forth O'Nolan	Seat of authority	Castle	Moderately certain	
+Submission data	76	Guy Lenfaunt		"53.1406068022979, -6.709805655994937"	Carnalway	Locus of authority	Castle	Very uncertain	
 Submission data	77	Leynagh Fersson O'Conor of Hyrth							
 Submission data	78	Felim O'Toole		"53.18463122519382, -6.1872523309723855"	Powerscourt	Residence	Castle	Moderately certain	
 Submission data	79	Lawrence Berkerolle		"51.522118189614524, -3.5532030889493202"	Coity Castle	Residence	Castle	Very certain	
