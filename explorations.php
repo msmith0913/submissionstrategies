@@ -26,8 +26,12 @@
 </header>
 <main>
 	<h1>Explorations</h1>
-	<p>These brief pieces discuss particular dimensions of the visualizations and sources. Find something interesting and want to contribute? Please <a href="/contact.php">get in touch</a>!</p>
-<p><strong>Coming soon!</strong> The exploration pieces will be released in the project's next phase, over summer and fall 2022.</p>
+	<p>These brief pieces discuss particular dimensions of the visualizations and sources. Some of these are peer-reviewed articles, while others are more exploratory, speculative blog posts. Find something interesting and want to contribute? Please <a href="/contact.php">get in touch</a>!</p>
+	<h2>Published</h2>
+	<ul>
+		<li><a href="https://ideah.pubpub.org/pub/13nk9j68/release/3">Visualizing the Irish Submissions to Richard II</a>, <i>Interdisciplinary Digital Engagements in Arts and Humanities</i> 4, no. 3 (2024).<br><i>This article details the methods by which the Submission Strategies data was produced and how the complexities of medieval data help us identify key principles of data transparency.</i></li>
+	</ul>
+	<h2>In Development</h2>
 	<ul>
 		<li>The Interpreter as Political Intermediary</li>
 		<li>Hidden Marital Networks in the Submissions to Richard II</li>
